@@ -1,0 +1,3349 @@
+--- Início do ataque DDoS: 2025-03-30T15:19:47.848Z ---
+Alvo: 192.168.2.14:3000/operacao-pesada
+Número de requisições: 200
+
+Requisição #0 - Status: 200 - Tempo: 319ms
+Requisição #1 - Status: 200 - Tempo: 454ms
+Requisição #2 - Status: 200 - Tempo: 475ms
+Requisição #3 - Status: 200 - Tempo: 619ms
+Requisição #4 - Status: 200 - Tempo: 734ms
+Requisição #5 - Status: 200 - Tempo: 768ms
+Requisição #6 - Status: 200 - Tempo: 864ms
+Requisição #7 - Status: 200 - Tempo: 1038ms
+Requisição #8 - Status: 200 - Tempo: 1053ms
+Requisição #9 - Status: 200 - Tempo: 1212ms
+Requisição #10 - Status: 200 - Tempo: 1237ms
+Requisição #11 - Status: 200 - Tempo: 1386ms
+Requisição #12 - Status: 200 - Tempo: 1419ms
+Requisição #13 - Status: 200 - Tempo: 1554ms
+Requisição #14 - Status: 200 - Tempo: 1728ms
+Requisição #15 - Status: 200 - Tempo: 1729ms
+Requisição #16 - Status: 200 - Tempo: 1905ms
+Requisição #17 - Status: 200 - Tempo: 1906ms
+Requisição #18 - Status: 200 - Tempo: 2059ms
+Requisição #19 - Status: 200 - Tempo: 2240ms
+Requisição #20 - Status: 200 - Tempo: 2240ms
+Requisição #21 - Status: 200 - Tempo: 2329ms
+Requisição #23 - Status: 200 - Tempo: 2719ms
+Requisição #24 - Status: 200 - Tempo: 2720ms
+Requisição #22 - Status: 200 - Tempo: 2720ms
+Requisição #25 - Status: 200 - Tempo: 2753ms
+Requisição #26 - Status: 200 - Tempo: 2757ms
+Requisição #27 - Status: 200 - Tempo: 2927ms
+Requisição #28 - Status: 200 - Tempo: 3105ms
+Requisição #29 - Status: 200 - Tempo: 3106ms
+Requisição #30 - Status: 200 - Tempo: 3280ms
+Requisição #31 - Status: 200 - Tempo: 3281ms
+Requisição #32 - Status: 200 - Tempo: 3406ms
+Requisição #33 - Status: 200 - Tempo: 3583ms
+Requisição #34 - Status: 200 - Tempo: 3585ms
+Requisição #35 - Status: 200 - Tempo: 3693ms
+Requisição #36 - Status: 200 - Tempo: 3820ms
+Requisição #37 - Status: 200 - Tempo: 3995ms
+Requisição #38 - Status: 200 - Tempo: 3998ms
+Requisição #39 - Status: 200 - Tempo: 4171ms
+Requisição #40 - Status: 200 - Tempo: 4196ms
+Requisição #41 - Status: 200 - Tempo: 4346ms
+Requisição #42 - Status: 200 - Tempo: 4382ms
+Requisição #43 - Status: 200 - Tempo: 4523ms
+Requisição #44 - Status: 200 - Tempo: 4701ms
+Requisição #45 - Status: 200 - Tempo: 4701ms
+Requisição #46 - Status: 200 - Tempo: 4877ms
+Requisição #47 - Status: 200 - Tempo: 4877ms
+Requisição #48 - Status: 200 - Tempo: 5051ms
+Requisição #49 - Status: 200 - Tempo: 5057ms
+Requisição #200 - Status: 200 - Tempo: 241ms
+Requisição #201 - Status: 200 - Tempo: 268ms
+Requisição #202 - Status: 200 - Tempo: 362ms
+Requisição #203 - Status: 200 - Tempo: 452ms
+Requisição #204 - Status: 200 - Tempo: 542ms
+Requisição #205 - Status: 200 - Tempo: 632ms
+Requisição #206 - Status: 200 - Tempo: 722ms
+Requisição #207 - Status: 200 - Tempo: 812ms
+Requisição #208 - Status: 200 - Tempo: 908ms
+Requisição #209 - Status: 200 - Tempo: 1003ms
+Requisição #210 - Status: 200 - Tempo: 1102ms
+Requisição #211 - Status: 200 - Tempo: 1194ms
+Requisição #212 - Status: 200 - Tempo: 1283ms
+Requisição #213 - Status: 200 - Tempo: 1372ms
+Requisição #214 - Status: 200 - Tempo: 1462ms
+Requisição #215 - Status: 200 - Tempo: 1552ms
+Requisição #216 - Status: 200 - Tempo: 1642ms
+Requisição #217 - Status: 200 - Tempo: 1733ms
+Requisição #218 - Status: 200 - Tempo: 1823ms
+Requisição #219 - Status: 200 - Tempo: 1919ms
+Requisição #220 - Status: 200 - Tempo: 2010ms
+Requisição #221 - Status: 200 - Tempo: 2110ms
+Requisição #222 - Status: 200 - Tempo: 2200ms
+Requisição #223 - Status: 200 - Tempo: 2298ms
+Requisição #224 - Status: 200 - Tempo: 2390ms
+Requisição #225 - Status: 200 - Tempo: 2481ms
+Requisição #226 - Status: 200 - Tempo: 2572ms
+Requisição #227 - Status: 200 - Tempo: 2662ms
+Requisição #228 - Status: 200 - Tempo: 2756ms
+Requisição #229 - Status: 200 - Tempo: 2846ms
+Requisição #230 - Status: 200 - Tempo: 2948ms
+Requisição #231 - Status: 200 - Tempo: 3045ms
+Requisição #232 - Status: 200 - Tempo: 3145ms
+Requisição #233 - Status: 200 - Tempo: 3234ms
+Requisição #234 - Status: 200 - Tempo: 3325ms
+Requisição #235 - Status: 200 - Tempo: 3414ms
+Requisição #236 - Status: 200 - Tempo: 3507ms
+Requisição #237 - Status: 200 - Tempo: 3600ms
+Requisição #238 - Status: 200 - Tempo: 3691ms
+Requisição #239 - Status: 200 - Tempo: 3780ms
+Requisição #240 - Status: 200 - Tempo: 3870ms
+Requisição #50 - Status: 200 - Tempo: 8955ms
+Requisição #51 - Status: 200 - Tempo: 9049ms
+Requisição #52 - Status: 200 - Tempo: 9153ms
+Requisição #53 - Status: 200 - Tempo: 9244ms
+Requisição #54 - Status: 200 - Tempo: 9343ms
+Requisição #55 - Status: 200 - Tempo: 9442ms
+Requisição #56 - Status: 200 - Tempo: 9540ms
+Requisição #57 - Status: 200 - Tempo: 9638ms
+Requisição #58 - Status: 200 - Tempo: 9742ms
+Requisição #59 - Status: 200 - Tempo: 9841ms
+Requisição #60 - Status: 200 - Tempo: 9939ms
+Requisição #61 - Status: 200 - Tempo: 10036ms
+Requisição #400 - Status: 200 - Tempo: 143ms
+Requisição #401 - Status: 200 - Tempo: 238ms
+Requisição #402 - Status: 200 - Tempo: 331ms
+Requisição #403 - Status: 200 - Tempo: 426ms
+Requisição #404 - Status: 200 - Tempo: 517ms
+Requisição #405 - Status: 200 - Tempo: 606ms
+Requisição #406 - Status: 200 - Tempo: 697ms
+Requisição #407 - Status: 200 - Tempo: 788ms
+Requisição #408 - Status: 200 - Tempo: 884ms
+Requisição #409 - Status: 200 - Tempo: 988ms
+Requisição #410 - Status: 200 - Tempo: 1086ms
+Requisição #411 - Status: 200 - Tempo: 1184ms
+Requisição #412 - Status: 200 - Tempo: 1275ms
+Requisição #413 - Status: 200 - Tempo: 1364ms
+Requisição #414 - Status: 200 - Tempo: 1455ms
+Requisição #415 - Status: 200 - Tempo: 1545ms
+Requisição #416 - Status: 200 - Tempo: 1636ms
+Requisição #417 - Status: 200 - Tempo: 1725ms
+Requisição #418 - Status: 200 - Tempo: 1816ms
+Requisição #419 - Status: 200 - Tempo: 1926ms
+Requisição #420 - Status: 200 - Tempo: 2014ms
+Requisição #421 - Status: 200 - Tempo: 2103ms
+Requisição #422 - Status: 200 - Tempo: 2193ms
+Requisição #423 - Status: 200 - Tempo: 2283ms
+Requisição #424 - Status: 200 - Tempo: 2372ms
+Requisição #425 - Status: 200 - Tempo: 2461ms
+Requisição #426 - Status: 200 - Tempo: 2550ms
+Requisição #427 - Status: 200 - Tempo: 2639ms
+Requisição #428 - Status: 200 - Tempo: 2737ms
+Requisição #429 - Status: 200 - Tempo: 2827ms
+Requisição #430 - Status: 200 - Tempo: 2918ms
+Requisição #431 - Status: 200 - Tempo: 3010ms
+Requisição #432 - Status: 200 - Tempo: 3104ms
+Requisição #433 - Status: 200 - Tempo: 3201ms
+Requisição #434 - Status: 200 - Tempo: 3290ms
+Requisição #435 - Status: 200 - Tempo: 3380ms
+Requisição #436 - Status: 200 - Tempo: 3472ms
+Requisição #437 - Status: 200 - Tempo: 3565ms
+Requisição #438 - Status: 200 - Tempo: 3659ms
+Requisição #439 - Status: 200 - Tempo: 3755ms
+Requisição #440 - Status: 200 - Tempo: 3844ms
+Requisição #441 - Status: 200 - Tempo: 3944ms
+Requisição #442 - Status: 200 - Tempo: 4034ms
+Requisição #62 - Status: 200 - Tempo: 14115ms
+Requisição #63 - Status: 200 - Tempo: 14213ms
+Requisição #64 - Status: 200 - Tempo: 14307ms
+Requisição #65 - Status: 200 - Tempo: 14398ms
+Requisição #66 - Status: 200 - Tempo: 14487ms
+Requisição #67 - Status: 200 - Tempo: 14576ms
+Requisição #68 - Status: 200 - Tempo: 14681ms
+Requisição #69 - Status: 200 - Tempo: 14772ms
+Requisição #70 - Status: 200 - Tempo: 14863ms
+Requisição #71 - Status: 200 - Tempo: 14955ms
+Requisição #72 - Status: 200 - Tempo: 15051ms
+Requisição #600 - Status: 200 - Tempo: 160ms
+Requisição #601 - Status: 200 - Tempo: 252ms
+Requisição #602 - Status: 200 - Tempo: 344ms
+Requisição #603 - Status: 200 - Tempo: 429ms
+Requisição #604 - Status: 200 - Tempo: 518ms
+Requisição #606 - Status: 200 - Tempo: 606ms
+Requisição #607 - Status: 200 - Tempo: 697ms
+Requisição #608 - Status: 200 - Tempo: 786ms
+Requisição #605 - Status: 200 - Tempo: 875ms
+Requisição #609 - Status: 200 - Tempo: 968ms
+Requisição #610 - Status: 200 - Tempo: 1057ms
+Requisição #611 - Status: 200 - Tempo: 1146ms
+Requisição #612 - Status: 200 - Tempo: 1238ms
+Requisição #613 - Status: 200 - Tempo: 1325ms
+Requisição #614 - Status: 200 - Tempo: 1413ms
+Requisição #615 - Status: 200 - Tempo: 1501ms
+Requisição #616 - Status: 200 - Tempo: 1590ms
+Requisição #617 - Status: 200 - Tempo: 1679ms
+Requisição #618 - Status: 200 - Tempo: 1769ms
+Requisição #619 - Status: 200 - Tempo: 1858ms
+Requisição #620 - Status: 200 - Tempo: 1949ms
+Requisição #621 - Status: 200 - Tempo: 2037ms
+Requisição #622 - Status: 200 - Tempo: 2127ms
+Requisição #623 - Status: 200 - Tempo: 2218ms
+Requisição #624 - Status: 200 - Tempo: 2306ms
+Requisição #625 - Status: 200 - Tempo: 2393ms
+Requisição #626 - Status: 200 - Tempo: 2481ms
+Requisição #627 - Status: 200 - Tempo: 2569ms
+Requisição #628 - Status: 200 - Tempo: 2658ms
+Requisição #629 - Status: 200 - Tempo: 2747ms
+Requisição #630 - Status: 200 - Tempo: 2850ms
+Requisição #631 - Status: 200 - Tempo: 2945ms
+Requisição #632 - Status: 200 - Tempo: 3037ms
+Requisição #633 - Status: 200 - Tempo: 3144ms
+Requisição #634 - Status: 200 - Tempo: 3236ms
+Requisição #635 - Status: 200 - Tempo: 3325ms
+Requisição #636 - Status: 200 - Tempo: 3415ms
+Requisição #637 - Status: 200 - Tempo: 3504ms
+Requisição #638 - Status: 200 - Tempo: 3598ms
+Requisição #639 - Status: 200 - Tempo: 3696ms
+Requisição #640 - Status: 200 - Tempo: 3800ms
+Requisição #641 - Status: 200 - Tempo: 3907ms
+Requisição #642 - Status: 200 - Tempo: 3999ms
+Requisição #73 - Status: 200 - Tempo: 19073ms
+Requisição #74 - Status: 200 - Tempo: 19170ms
+Requisição #75 - Status: 200 - Tempo: 19262ms
+Requisição #76 - Status: 200 - Tempo: 19363ms
+Requisição #77 - Status: 200 - Tempo: 19454ms
+Requisição #78 - Status: 200 - Tempo: 19553ms
+Requisição #79 - Status: 200 - Tempo: 19653ms
+Requisição #80 - Status: 200 - Tempo: 19743ms
+Requisição #81 - Status: 200 - Tempo: 19840ms
+Requisição #82 - Status: 200 - Tempo: 19940ms
+Requisição #83 - Status: 200 - Tempo: 20029ms
+Requisição #800 - Status: 200 - Tempo: 139ms
+Requisição #801 - Status: 200 - Tempo: 234ms
+Requisição #802 - Status: 200 - Tempo: 323ms
+Requisição #803 - Status: 200 - Tempo: 411ms
+Requisição #804 - Status: 200 - Tempo: 499ms
+Requisição #805 - Status: 200 - Tempo: 589ms
+Requisição #806 - Status: 200 - Tempo: 678ms
+Requisição #807 - Status: 200 - Tempo: 769ms
+Requisição #808 - Status: 200 - Tempo: 858ms
+Requisição #809 - Status: 200 - Tempo: 952ms
+Requisição #810 - Status: 200 - Tempo: 1042ms
+Requisição #811 - Status: 200 - Tempo: 1134ms
+Requisição #812 - Status: 200 - Tempo: 1224ms
+Requisição #813 - Status: 200 - Tempo: 1312ms
+Requisição #814 - Status: 200 - Tempo: 1400ms
+Requisição #815 - Status: 200 - Tempo: 1491ms
+Requisição #816 - Status: 200 - Tempo: 1575ms
+Requisição #817 - Status: 200 - Tempo: 1664ms
+Requisição #818 - Status: 200 - Tempo: 1752ms
+Requisição #819 - Status: 200 - Tempo: 1839ms
+Requisição #820 - Status: 200 - Tempo: 1944ms
+Requisição #821 - Status: 200 - Tempo: 2037ms
+Requisição #822 - Status: 200 - Tempo: 2133ms
+Requisição #823 - Status: 200 - Tempo: 2228ms
+Requisição #824 - Status: 200 - Tempo: 2318ms
+Requisição #825 - Status: 200 - Tempo: 2408ms
+Requisição #826 - Status: 200 - Tempo: 2500ms
+Requisição #827 - Status: 200 - Tempo: 2590ms
+Requisição #828 - Status: 200 - Tempo: 2681ms
+Requisição #829 - Status: 200 - Tempo: 2775ms
+Requisição #830 - Status: 200 - Tempo: 2862ms
+Requisição #831 - Status: 200 - Tempo: 2952ms
+Requisição #832 - Status: 200 - Tempo: 3043ms
+Requisição #833 - Status: 200 - Tempo: 3136ms
+Requisição #834 - Status: 200 - Tempo: 3225ms
+Requisição #835 - Status: 200 - Tempo: 3323ms
+Requisição #836 - Status: 200 - Tempo: 3418ms
+Requisição #837 - Status: 200 - Tempo: 3506ms
+Requisição #838 - Status: 200 - Tempo: 3594ms
+Requisição #839 - Status: 200 - Tempo: 3687ms
+Requisição #840 - Status: 200 - Tempo: 3785ms
+Requisição #841 - Status: 200 - Tempo: 3873ms
+Requisição #842 - Status: 200 - Tempo: 3972ms
+Requisição #84 - Status: 200 - Tempo: 24062ms
+Requisição #85 - Status: 200 - Tempo: 24160ms
+Requisição #86 - Status: 200 - Tempo: 24253ms
+Requisição #87 - Status: 200 - Tempo: 24342ms
+Requisição #88 - Status: 200 - Tempo: 24433ms
+Requisição #89 - Status: 200 - Tempo: 24522ms
+Requisição #90 - Status: 200 - Tempo: 24611ms
+Requisição #91 - Status: 200 - Tempo: 24703ms
+Requisição #92 - Status: 200 - Tempo: 24797ms
+Requisição #93 - Status: 200 - Tempo: 24895ms
+Requisição #94 - Status: 200 - Tempo: 25013ms
+Requisição #95 - Status: 200 - Tempo: 25085ms
+Requisição #1000 - Status: 200 - Tempo: 207ms
+Requisição #1001 - Status: 200 - Tempo: 313ms
+Requisição #1002 - Status: 200 - Tempo: 404ms
+Requisição #1003 - Status: 200 - Tempo: 493ms
+Requisição #1004 - Status: 200 - Tempo: 581ms
+Requisição #1005 - Status: 200 - Tempo: 669ms
+Requisição #1006 - Status: 200 - Tempo: 757ms
+Requisição #1007 - Status: 200 - Tempo: 844ms
+Requisição #1008 - Status: 200 - Tempo: 943ms
+Requisição #1010 - Status: 200 - Tempo: 1033ms
+Requisição #1011 - Status: 200 - Tempo: 1123ms
+Requisição #1012 - Status: 200 - Tempo: 1216ms
+Requisição #1013 - Status: 200 - Tempo: 1310ms
+Requisição #1014 - Status: 200 - Tempo: 1399ms
+Requisição #1015 - Status: 200 - Tempo: 1489ms
+Requisição #1016 - Status: 200 - Tempo: 1578ms
+Requisição #1017 - Status: 200 - Tempo: 1666ms
+Requisição #1018 - Status: 200 - Tempo: 1756ms
+Requisição #1019 - Status: 200 - Tempo: 1846ms
+Requisição #1020 - Status: 200 - Tempo: 1939ms
+Requisição #1021 - Status: 200 - Tempo: 2031ms
+Requisição #1022 - Status: 200 - Tempo: 2119ms
+Requisição #1023 - Status: 200 - Tempo: 2212ms
+Requisição #1024 - Status: 200 - Tempo: 2303ms
+Requisição #1025 - Status: 200 - Tempo: 2388ms
+Requisição #1026 - Status: 200 - Tempo: 2475ms
+Requisição #1027 - Status: 200 - Tempo: 2570ms
+Requisição #1028 - Status: 200 - Tempo: 2662ms
+Requisição #1029 - Status: 200 - Tempo: 2757ms
+Requisição #1030 - Status: 200 - Tempo: 2846ms
+Requisição #1031 - Status: 200 - Tempo: 2935ms
+Requisição #1032 - Status: 200 - Tempo: 3027ms
+Requisição #1033 - Status: 200 - Tempo: 3119ms
+Requisição #1034 - Status: 200 - Tempo: 3208ms
+Requisição #1035 - Status: 200 - Tempo: 3300ms
+Requisição #1036 - Status: 200 - Tempo: 3388ms
+Requisição #1037 - Status: 200 - Tempo: 3476ms
+Requisição #1038 - Status: 200 - Tempo: 3563ms
+Requisição #1039 - Status: 200 - Tempo: 3650ms
+Requisição #1040 - Status: 200 - Tempo: 3738ms
+Requisição #1041 - Status: 200 - Tempo: 3827ms
+Requisição #1042 - Status: 200 - Tempo: 3920ms
+Requisição #1009 - Status: 200 - Tempo: 4016ms
+Requisição #96 - Status: 200 - Tempo: 29091ms
+Requisição #97 - Status: 200 - Tempo: 29184ms
+Requisição #98 - Status: 200 - Tempo: 29284ms
+Requisição #99 - Status: 200 - Tempo: 29379ms
+Requisição #100 - Status: 200 - Tempo: 29483ms
+Requisição #101 - Status: 200 - Tempo: 29590ms
+Requisição #102 - Status: 200 - Tempo: 29693ms
+Requisição #103 - Status: 200 - Tempo: 29791ms
+Requisição #104 - Status: 200 - Tempo: 29898ms
+Requisição #105 - Status: 200 - Tempo: 30010ms
+Requisição #106 - Status: 200 - Tempo: 30091ms
+Requisição #107 - ERRO: Timeout - Tempo: 30177ms
+Requisição #108 - ERRO: Timeout - Tempo: 30176ms
+Requisição #109 - ERRO: Timeout - Tempo: 30177ms
+Requisição #110 - ERRO: Timeout - Tempo: 30177ms
+Requisição #111 - ERRO: Timeout - Tempo: 30177ms
+Requisição #112 - ERRO: Timeout - Tempo: 30177ms
+Requisição #113 - ERRO: Timeout - Tempo: 30177ms
+Requisição #114 - ERRO: Timeout - Tempo: 30177ms
+Requisição #115 - ERRO: Timeout - Tempo: 30178ms
+Requisição #116 - ERRO: Timeout - Tempo: 30178ms
+Requisição #117 - ERRO: Timeout - Tempo: 30178ms
+Requisição #118 - ERRO: Timeout - Tempo: 30178ms
+Requisição #119 - ERRO: Timeout - Tempo: 30179ms
+Requisição #120 - ERRO: Timeout - Tempo: 30179ms
+Requisição #121 - ERRO: Timeout - Tempo: 30179ms
+Requisição #122 - ERRO: Timeout - Tempo: 30179ms
+Requisição #123 - ERRO: Timeout - Tempo: 30179ms
+Requisição #124 - ERRO: Timeout - Tempo: 30179ms
+Requisição #125 - ERRO: Timeout - Tempo: 30178ms
+Requisição #126 - ERRO: Timeout - Tempo: 30178ms
+Requisição #127 - ERRO: Timeout - Tempo: 30179ms
+Requisição #128 - ERRO: Timeout - Tempo: 30179ms
+Requisição #129 - ERRO: Timeout - Tempo: 30179ms
+Requisição #130 - ERRO: Timeout - Tempo: 30179ms
+Requisição #131 - ERRO: Timeout - Tempo: 30179ms
+Requisição #132 - ERRO: Timeout - Tempo: 30179ms
+Requisição #133 - ERRO: Timeout - Tempo: 30179ms
+Requisição #134 - ERRO: Timeout - Tempo: 30179ms
+Requisição #135 - ERRO: Timeout - Tempo: 30179ms
+Requisição #136 - ERRO: Timeout - Tempo: 30179ms
+Requisição #137 - ERRO: Timeout - Tempo: 30179ms
+Requisição #138 - ERRO: Timeout - Tempo: 30180ms
+Requisição #139 - ERRO: Timeout - Tempo: 30180ms
+Requisição #140 - ERRO: Timeout - Tempo: 30180ms
+Requisição #141 - ERRO: Timeout - Tempo: 30180ms
+Requisição #142 - ERRO: Timeout - Tempo: 30180ms
+Requisição #143 - ERRO: Timeout - Tempo: 30179ms
+Requisição #144 - ERRO: Timeout - Tempo: 30179ms
+Requisição #145 - ERRO: Timeout - Tempo: 30180ms
+Requisição #146 - ERRO: Timeout - Tempo: 30180ms
+Requisição #147 - ERRO: Timeout - Tempo: 30180ms
+Requisição #148 - ERRO: Timeout - Tempo: 30180ms
+Requisição #149 - ERRO: Timeout - Tempo: 30179ms
+Requisição #150 - ERRO: Timeout - Tempo: 30179ms
+Requisição #151 - ERRO: Timeout - Tempo: 30179ms
+Requisição #152 - ERRO: Timeout - Tempo: 30179ms
+Requisição #153 - ERRO: Timeout - Tempo: 30179ms
+Requisição #154 - ERRO: Timeout - Tempo: 30179ms
+Requisição #155 - ERRO: Timeout - Tempo: 30180ms
+Requisição #156 - ERRO: Timeout - Tempo: 30180ms
+Requisição #157 - ERRO: Timeout - Tempo: 30180ms
+Requisição #158 - ERRO: Timeout - Tempo: 30180ms
+Requisição #159 - ERRO: Timeout - Tempo: 30180ms
+Requisição #160 - ERRO: Timeout - Tempo: 30180ms
+Requisição #161 - ERRO: Timeout - Tempo: 30180ms
+Requisição #162 - ERRO: Timeout - Tempo: 30180ms
+Requisição #163 - ERRO: Timeout - Tempo: 30180ms
+Requisição #164 - ERRO: Timeout - Tempo: 30179ms
+Requisição #165 - ERRO: Timeout - Tempo: 30179ms
+Requisição #166 - ERRO: Timeout - Tempo: 30179ms
+Requisição #167 - ERRO: Timeout - Tempo: 30179ms
+Requisição #168 - ERRO: Timeout - Tempo: 30179ms
+Requisição #169 - ERRO: Timeout - Tempo: 30179ms
+Requisição #170 - ERRO: Timeout - Tempo: 30180ms
+Requisição #171 - ERRO: Timeout - Tempo: 30180ms
+Requisição #172 - ERRO: Timeout - Tempo: 30180ms
+Requisição #173 - ERRO: Timeout - Tempo: 30180ms
+Requisição #174 - ERRO: Timeout - Tempo: 30180ms
+Requisição #175 - ERRO: Timeout - Tempo: 30180ms
+Requisição #1200 - Status: 200 - Tempo: 202ms
+Requisição #175 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #174 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #173 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #172 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #171 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #170 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #169 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #168 - ERRO: socket hang up - Tempo: 30181ms
+Requisição #167 - ERRO: socket hang up - Tempo: 30182ms
+Requisição #166 - ERRO: socket hang up - Tempo: 30182ms
+Requisição #165 - ERRO: socket hang up - Tempo: 30182ms
+Requisição #164 - ERRO: socket hang up - Tempo: 30182ms
+Requisição #163 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #162 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #161 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #160 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #159 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #158 - ERRO: socket hang up - Tempo: 30183ms
+Requisição #157 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #156 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #155 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #154 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #153 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #152 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #151 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #150 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #149 - ERRO: socket hang up - Tempo: 30184ms
+Requisição #148 - ERRO: socket hang up - Tempo: 30185ms
+Requisição #147 - ERRO: socket hang up - Tempo: 30185ms
+Requisição #146 - ERRO: socket hang up - Tempo: 30186ms
+Requisição #145 - ERRO: socket hang up - Tempo: 30186ms
+Requisição #144 - ERRO: socket hang up - Tempo: 30186ms
+Requisição #143 - ERRO: socket hang up - Tempo: 30186ms
+Requisição #142 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #141 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #140 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #139 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #138 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #137 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #136 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #135 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #134 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #133 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #132 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #131 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #130 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #129 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #128 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #127 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #126 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #125 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #124 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #123 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #122 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #121 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #120 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #119 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #118 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #117 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #116 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #115 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #114 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #113 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #112 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #111 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #110 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #109 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #108 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #107 - ERRO: socket hang up - Tempo: 30191ms
+Requisição #176 - ERRO: Timeout - Tempo: 30187ms
+Requisição #177 - ERRO: Timeout - Tempo: 30187ms
+Requisição #178 - ERRO: Timeout - Tempo: 30187ms
+Requisição #179 - ERRO: Timeout - Tempo: 30187ms
+Requisição #180 - ERRO: Timeout - Tempo: 30187ms
+Requisição #181 - ERRO: Timeout - Tempo: 30186ms
+Requisição #182 - ERRO: Timeout - Tempo: 30186ms
+Requisição #183 - ERRO: Timeout - Tempo: 30186ms
+Requisição #184 - ERRO: Timeout - Tempo: 30186ms
+Requisição #185 - ERRO: Timeout - Tempo: 30186ms
+Requisição #186 - ERRO: Timeout - Tempo: 30186ms
+Requisição #187 - ERRO: Timeout - Tempo: 30186ms
+Requisição #188 - ERRO: Timeout - Tempo: 30186ms
+Requisição #189 - ERRO: Timeout - Tempo: 30187ms
+Requisição #190 - ERRO: Timeout - Tempo: 30187ms
+Requisição #191 - ERRO: Timeout - Tempo: 30187ms
+Requisição #192 - ERRO: Timeout - Tempo: 30187ms
+Requisição #193 - ERRO: Timeout - Tempo: 30187ms
+Requisição #194 - ERRO: Timeout - Tempo: 30187ms
+Requisição #195 - ERRO: Timeout - Tempo: 30187ms
+Requisição #196 - ERRO: Timeout - Tempo: 30186ms
+Requisição #197 - ERRO: Timeout - Tempo: 30186ms
+Requisição #198 - ERRO: Timeout - Tempo: 30186ms
+Requisição #199 - ERRO: Timeout - Tempo: 30186ms
+Requisição #199 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #198 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #197 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #196 - ERRO: socket hang up - Tempo: 30187ms
+Requisição #195 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #194 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #193 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #192 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #191 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #190 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #189 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #188 - ERRO: socket hang up - Tempo: 30188ms
+Requisição #187 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #186 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #185 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #184 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #183 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #182 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #181 - ERRO: socket hang up - Tempo: 30189ms
+Requisição #180 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #179 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #178 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #177 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #176 - ERRO: socket hang up - Tempo: 30190ms
+Requisição #1201 - Status: 200 - Tempo: 292ms
+Requisição #1202 - Status: 200 - Tempo: 380ms
+Requisição #1203 - Status: 200 - Tempo: 469ms
+Requisição #1204 - Status: 200 - Tempo: 556ms
+Requisição #1205 - Status: 200 - Tempo: 643ms
+Requisição #1206 - Status: 200 - Tempo: 731ms
+Requisição #1207 - Status: 200 - Tempo: 821ms
+Requisição #1208 - Status: 200 - Tempo: 907ms
+Requisição #1210 - Status: 200 - Tempo: 1006ms
+Requisição #1211 - Status: 200 - Tempo: 1106ms
+Requisição #1212 - Status: 200 - Tempo: 1198ms
+Requisição #718 - ERRO: read ECONNRESET - Tempo: 16194ms
+Requisição #717 - ERRO: read ECONNRESET - Tempo: 16194ms
+Requisição #716 - ERRO: read ECONNRESET - Tempo: 16195ms
+Requisição #715 - ERRO: read ECONNRESET - Tempo: 16195ms
+Requisição #714 - ERRO: read ECONNRESET - Tempo: 16195ms
+Requisição #713 - ERRO: read ECONNRESET - Tempo: 16195ms
+Requisição #712 - ERRO: read ECONNRESET - Tempo: 16196ms
+Requisição #711 - ERRO: read ECONNRESET - Tempo: 16196ms
+Requisição #710 - ERRO: read ECONNRESET - Tempo: 16196ms
+Requisição #709 - ERRO: read ECONNRESET - Tempo: 16196ms
+Requisição #1213 - Status: 200 - Tempo: 1291ms
+Requisição #1214 - Status: 200 - Tempo: 1382ms
+Requisição #1215 - Status: 200 - Tempo: 1469ms
+Requisição #1216 - Status: 200 - Tempo: 1565ms
+Requisição #1217 - Status: 200 - Tempo: 1650ms
+Requisição #1218 - Status: 200 - Tempo: 1742ms
+Requisição #1219 - Status: 200 - Tempo: 1834ms
+Requisição #1220 - Status: 200 - Tempo: 1920ms
+Requisição #1221 - Status: 200 - Tempo: 2011ms
+Requisição #1222 - Status: 200 - Tempo: 2109ms
+Requisição #1223 - Status: 200 - Tempo: 2204ms
+Requisição #1224 - Status: 200 - Tempo: 2298ms
+Requisição #1225 - Status: 200 - Tempo: 2386ms
+Requisição #1226 - Status: 200 - Tempo: 2473ms
+Requisição #1227 - Status: 200 - Tempo: 2561ms
+Requisição #1228 - Status: 200 - Tempo: 2647ms
+Requisição #1229 - Status: 200 - Tempo: 2734ms
+Requisição #1230 - Status: 200 - Tempo: 2824ms
+Requisição #1231 - Status: 200 - Tempo: 2910ms
+Requisição #1232 - Status: 200 - Tempo: 3011ms
+Requisição #1233 - Status: 200 - Tempo: 3101ms
+Requisição #1234 - Status: 200 - Tempo: 3203ms
+Requisição #1235 - Status: 200 - Tempo: 3293ms
+Requisição #1236 - Status: 200 - Tempo: 3380ms
+Requisição #1237 - Status: 200 - Tempo: 3468ms
+Requisição #1238 - Status: 200 - Tempo: 3556ms
+Requisição #1239 - Status: 200 - Tempo: 3675ms
+Requisição #1240 - Status: 200 - Tempo: 3767ms
+Requisição #1241 - Status: 200 - Tempo: 3853ms
+Requisição #1242 - Status: 200 - Tempo: 3944ms
+Requisição #1209 - Status: 200 - Tempo: 4037ms
+Requisição #241 - ERRO: Timeout - Tempo: 30079ms
+Requisição #242 - ERRO: Timeout - Tempo: 30079ms
+Requisição #243 - ERRO: Timeout - Tempo: 30079ms
+Requisição #244 - ERRO: Timeout - Tempo: 30079ms
+Requisição #245 - ERRO: Timeout - Tempo: 30079ms
+Requisição #246 - ERRO: Timeout - Tempo: 30079ms
+Requisição #247 - ERRO: Timeout - Tempo: 30079ms
+Requisição #248 - ERRO: Timeout - Tempo: 30079ms
+Requisição #249 - ERRO: Timeout - Tempo: 30079ms
+Requisição #250 - ERRO: Timeout - Tempo: 30080ms
+Requisição #251 - ERRO: Timeout - Tempo: 30080ms
+Requisição #252 - ERRO: Timeout - Tempo: 30080ms
+Requisição #253 - ERRO: Timeout - Tempo: 30079ms
+Requisição #254 - ERRO: Timeout - Tempo: 30079ms
+Requisição #255 - ERRO: Timeout - Tempo: 30079ms
+Requisição #256 - ERRO: Timeout - Tempo: 30078ms
+Requisição #257 - ERRO: Timeout - Tempo: 30078ms
+Requisição #258 - ERRO: Timeout - Tempo: 30078ms
+Requisição #259 - ERRO: Timeout - Tempo: 30079ms
+Requisição #260 - ERRO: Timeout - Tempo: 30079ms
+Requisição #261 - ERRO: Timeout - Tempo: 30079ms
+Requisição #262 - ERRO: Timeout - Tempo: 30079ms
+Requisição #263 - ERRO: Timeout - Tempo: 30079ms
+Requisição #264 - ERRO: Timeout - Tempo: 30079ms
+Requisição #265 - ERRO: Timeout - Tempo: 30079ms
+Requisição #266 - ERRO: Timeout - Tempo: 30079ms
+Requisição #267 - ERRO: Timeout - Tempo: 30079ms
+Requisição #268 - ERRO: Timeout - Tempo: 30078ms
+Requisição #269 - ERRO: Timeout - Tempo: 30078ms
+Requisição #270 - ERRO: Timeout - Tempo: 30079ms
+Requisição #271 - ERRO: Timeout - Tempo: 30079ms
+Requisição #272 - ERRO: Timeout - Tempo: 30079ms
+Requisição #273 - ERRO: Timeout - Tempo: 30079ms
+Requisição #274 - ERRO: Timeout - Tempo: 30079ms
+Requisição #274 - ERRO: socket hang up - Tempo: 30079ms
+Requisição #273 - ERRO: socket hang up - Tempo: 30079ms
+Requisição #272 - ERRO: socket hang up - Tempo: 30079ms
+Requisição #271 - ERRO: socket hang up - Tempo: 30079ms
+Requisição #270 - ERRO: socket hang up - Tempo: 30080ms
+Requisição #269 - ERRO: socket hang up - Tempo: 30080ms
+Requisição #268 - ERRO: socket hang up - Tempo: 30080ms
+Requisição #267 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #266 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #265 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #264 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #263 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #262 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #261 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #260 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #259 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #258 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #257 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #256 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #255 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #254 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #253 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #252 - ERRO: socket hang up - Tempo: 30084ms
+Requisição #251 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #250 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #249 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #248 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #247 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #246 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #245 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #244 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #243 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #242 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #241 - ERRO: socket hang up - Tempo: 30086ms
+Requisição #275 - ERRO: Timeout - Tempo: 30082ms
+Requisição #276 - ERRO: Timeout - Tempo: 30082ms
+Requisição #277 - ERRO: Timeout - Tempo: 30082ms
+Requisição #278 - ERRO: Timeout - Tempo: 30082ms
+Requisição #279 - ERRO: Timeout - Tempo: 30082ms
+Requisição #280 - ERRO: Timeout - Tempo: 30082ms
+Requisição #281 - ERRO: Timeout - Tempo: 30082ms
+Requisição #282 - ERRO: Timeout - Tempo: 30082ms
+Requisição #283 - ERRO: Timeout - Tempo: 30082ms
+Requisição #284 - ERRO: Timeout - Tempo: 30082ms
+Requisição #285 - ERRO: Timeout - Tempo: 30082ms
+Requisição #286 - ERRO: Timeout - Tempo: 30083ms
+Requisição #287 - ERRO: Timeout - Tempo: 30082ms
+Requisição #288 - ERRO: Timeout - Tempo: 30082ms
+Requisição #289 - ERRO: Timeout - Tempo: 30082ms
+Requisição #290 - ERRO: Timeout - Tempo: 30082ms
+Requisição #291 - ERRO: Timeout - Tempo: 30082ms
+Requisição #292 - ERRO: Timeout - Tempo: 30082ms
+Requisição #293 - ERRO: Timeout - Tempo: 30082ms
+Requisição #294 - ERRO: Timeout - Tempo: 30082ms
+Requisição #295 - ERRO: Timeout - Tempo: 30082ms
+Requisição #296 - ERRO: Timeout - Tempo: 30082ms
+Requisição #297 - ERRO: Timeout - Tempo: 30082ms
+Requisição #298 - ERRO: Timeout - Tempo: 30082ms
+Requisição #299 - ERRO: Timeout - Tempo: 30083ms
+Requisição #300 - ERRO: Timeout - Tempo: 30083ms
+Requisição #301 - ERRO: Timeout - Tempo: 30083ms
+Requisição #302 - ERRO: Timeout - Tempo: 30082ms
+Requisição #303 - ERRO: Timeout - Tempo: 30081ms
+Requisição #304 - ERRO: Timeout - Tempo: 30081ms
+Requisição #305 - ERRO: Timeout - Tempo: 30081ms
+Requisição #306 - ERRO: Timeout - Tempo: 30081ms
+Requisição #307 - ERRO: Timeout - Tempo: 30081ms
+Requisição #308 - ERRO: Timeout - Tempo: 30081ms
+Requisição #309 - ERRO: Timeout - Tempo: 30081ms
+Requisição #310 - ERRO: Timeout - Tempo: 30081ms
+Requisição #311 - ERRO: Timeout - Tempo: 30081ms
+Requisição #312 - ERRO: Timeout - Tempo: 30081ms
+Requisição #313 - ERRO: Timeout - Tempo: 30080ms
+Requisição #314 - ERRO: Timeout - Tempo: 30080ms
+Requisição #315 - ERRO: Timeout - Tempo: 30080ms
+Requisição #316 - ERRO: Timeout - Tempo: 30081ms
+Requisição #317 - ERRO: Timeout - Tempo: 30081ms
+Requisição #318 - ERRO: Timeout - Tempo: 30081ms
+Requisição #319 - ERRO: Timeout - Tempo: 30081ms
+Requisição #320 - ERRO: Timeout - Tempo: 30081ms
+Requisição #321 - ERRO: Timeout - Tempo: 30081ms
+Requisição #322 - ERRO: Timeout - Tempo: 30081ms
+Requisição #323 - ERRO: Timeout - Tempo: 30081ms
+Requisição #324 - ERRO: Timeout - Tempo: 30081ms
+Requisição #325 - ERRO: Timeout - Tempo: 30081ms
+Requisição #326 - ERRO: Timeout - Tempo: 30080ms
+Requisição #327 - ERRO: Timeout - Tempo: 30080ms
+Requisição #328 - ERRO: Timeout - Tempo: 30080ms
+Requisição #329 - ERRO: Timeout - Tempo: 30080ms
+Requisição #330 - ERRO: Timeout - Tempo: 30080ms
+Requisição #331 - ERRO: Timeout - Tempo: 30080ms
+Requisição #332 - ERRO: Timeout - Tempo: 30080ms
+Requisição #333 - ERRO: Timeout - Tempo: 30081ms
+Requisição #334 - ERRO: Timeout - Tempo: 30081ms
+Requisição #335 - ERRO: Timeout - Tempo: 30081ms
+Requisição #336 - ERRO: Timeout - Tempo: 30081ms
+Requisição #337 - ERRO: Timeout - Tempo: 30081ms
+Requisição #338 - ERRO: Timeout - Tempo: 30081ms
+Requisição #339 - ERRO: Timeout - Tempo: 30081ms
+Requisição #340 - ERRO: Timeout - Tempo: 30081ms
+Requisição #341 - ERRO: Timeout - Tempo: 30081ms
+Requisição #342 - ERRO: Timeout - Tempo: 30080ms
+Requisição #343 - ERRO: Timeout - Tempo: 30080ms
+Requisição #344 - ERRO: Timeout - Tempo: 30080ms
+Requisição #345 - ERRO: Timeout - Tempo: 30080ms
+Requisição #346 - ERRO: Timeout - Tempo: 30080ms
+Requisição #347 - ERRO: Timeout - Tempo: 30080ms
+Requisição #348 - ERRO: Timeout - Tempo: 30080ms
+Requisição #349 - ERRO: Timeout - Tempo: 30080ms
+Requisição #350 - ERRO: Timeout - Tempo: 30081ms
+Requisição #351 - ERRO: Timeout - Tempo: 30081ms
+Requisição #352 - ERRO: Timeout - Tempo: 30081ms
+Requisição #353 - ERRO: Timeout - Tempo: 30081ms
+Requisição #354 - ERRO: Timeout - Tempo: 30081ms
+Requisição #355 - ERRO: Timeout - Tempo: 30081ms
+Requisição #356 - ERRO: Timeout - Tempo: 30080ms
+Requisição #357 - ERRO: Timeout - Tempo: 30080ms
+Requisição #358 - ERRO: Timeout - Tempo: 30080ms
+Requisição #359 - ERRO: Timeout - Tempo: 30080ms
+Requisição #360 - ERRO: Timeout - Tempo: 30080ms
+Requisição #361 - ERRO: Timeout - Tempo: 30080ms
+Requisição #362 - ERRO: Timeout - Tempo: 30080ms
+Requisição #363 - ERRO: Timeout - Tempo: 30080ms
+Requisição #364 - ERRO: Timeout - Tempo: 30080ms
+Requisição #365 - ERRO: Timeout - Tempo: 30080ms
+Requisição #366 - ERRO: Timeout - Tempo: 30080ms
+Requisição #367 - ERRO: Timeout - Tempo: 30081ms
+Requisição #368 - ERRO: Timeout - Tempo: 30081ms
+Requisição #369 - ERRO: Timeout - Tempo: 30081ms
+Requisição #370 - ERRO: Timeout - Tempo: 30081ms
+Requisição #371 - ERRO: Timeout - Tempo: 30080ms
+Requisição #372 - ERRO: Timeout - Tempo: 30080ms
+Requisição #373 - ERRO: Timeout - Tempo: 30080ms
+Requisição #374 - ERRO: Timeout - Tempo: 30080ms
+Requisição #375 - ERRO: Timeout - Tempo: 30080ms
+Requisição #376 - ERRO: Timeout - Tempo: 30080ms
+Requisição #377 - ERRO: Timeout - Tempo: 30080ms
+Requisição #378 - ERRO: Timeout - Tempo: 30080ms
+Requisição #379 - ERRO: Timeout - Tempo: 30080ms
+Requisição #380 - ERRO: Timeout - Tempo: 30080ms
+Requisição #381 - ERRO: Timeout - Tempo: 30080ms
+Requisição #382 - ERRO: Timeout - Tempo: 30080ms
+Requisição #383 - ERRO: Timeout - Tempo: 30080ms
+Requisição #384 - ERRO: Timeout - Tempo: 30081ms
+Requisição #385 - ERRO: Timeout - Tempo: 30080ms
+Requisição #386 - ERRO: Timeout - Tempo: 30080ms
+Requisição #387 - ERRO: Timeout - Tempo: 30080ms
+Requisição #388 - ERRO: Timeout - Tempo: 30080ms
+Requisição #389 - ERRO: Timeout - Tempo: 30080ms
+Requisição #390 - ERRO: Timeout - Tempo: 30080ms
+Requisição #391 - ERRO: Timeout - Tempo: 30080ms
+Requisição #392 - ERRO: Timeout - Tempo: 30080ms
+Requisição #393 - ERRO: Timeout - Tempo: 30080ms
+Requisição #394 - ERRO: Timeout - Tempo: 30080ms
+Requisição #395 - ERRO: Timeout - Tempo: 30080ms
+Requisição #396 - ERRO: Timeout - Tempo: 30080ms
+Requisição #397 - ERRO: Timeout - Tempo: 30080ms
+Requisição #398 - ERRO: Timeout - Tempo: 30080ms
+Requisição #399 - ERRO: Timeout - Tempo: 30080ms
+Requisição #399 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #398 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #397 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #396 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #395 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #394 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #393 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #392 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #391 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #390 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #389 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #388 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #387 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #386 - ERRO: socket hang up - Tempo: 30081ms
+Requisição #385 - ERRO: socket hang up - Tempo: 30082ms
+Requisição #384 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #383 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #382 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #381 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #380 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #379 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #378 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #377 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #376 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #375 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #374 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #373 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #372 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #371 - ERRO: socket hang up - Tempo: 30083ms
+Requisição #370 - ERRO: socket hang up - Tempo: 30084ms
+Requisição #369 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #368 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #367 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #366 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #365 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #364 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #363 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #362 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #361 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #360 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #359 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #358 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #357 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #356 - ERRO: socket hang up - Tempo: 30085ms
+Requisição #355 - ERRO: socket hang up - Tempo: 30086ms
+Requisição #354 - ERRO: socket hang up - Tempo: 30086ms
+Requisição #353 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #352 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #351 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #350 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #349 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #348 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #347 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #346 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #345 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #344 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #343 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #342 - ERRO: socket hang up - Tempo: 30087ms
+Requisição #341 - ERRO: socket hang up - Tempo: 30088ms
+Requisição #340 - ERRO: socket hang up - Tempo: 30088ms
+Requisição #339 - ERRO: socket hang up - Tempo: 30088ms
+Requisição #338 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #337 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #336 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #335 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #334 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #333 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #332 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #331 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #330 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #329 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #328 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #327 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #326 - ERRO: socket hang up - Tempo: 30089ms
+Requisição #325 - ERRO: socket hang up - Tempo: 30090ms
+Requisição #324 - ERRO: socket hang up - Tempo: 30090ms
+Requisição #323 - ERRO: socket hang up - Tempo: 30090ms
+Requisição #322 - ERRO: socket hang up - Tempo: 30090ms
+Requisição #321 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #320 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #319 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #318 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #317 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #316 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #315 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #314 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #313 - ERRO: socket hang up - Tempo: 30091ms
+Requisição #312 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #311 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #310 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #309 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #308 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #307 - ERRO: socket hang up - Tempo: 30092ms
+Requisição #306 - ERRO: socket hang up - Tempo: 30093ms
+Requisição #305 - ERRO: socket hang up - Tempo: 30093ms
+Requisição #304 - ERRO: socket hang up - Tempo: 30093ms
+Requisição #303 - ERRO: socket hang up - Tempo: 30093ms
+Requisição #302 - ERRO: socket hang up - Tempo: 30094ms
+Requisição #301 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #300 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #299 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #298 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #297 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #296 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #295 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #294 - ERRO: socket hang up - Tempo: 30095ms
+Requisição #293 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #292 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #291 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #290 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #289 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #288 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #287 - ERRO: socket hang up - Tempo: 30096ms
+Requisição #286 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #285 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #284 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #283 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #282 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #281 - ERRO: socket hang up - Tempo: 30097ms
+Requisição #280 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #279 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #278 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #277 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #276 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #275 - ERRO: socket hang up - Tempo: 30098ms
+Requisição #1401 - Status: 200 - Tempo: 161ms
+Requisição #1402 - Status: 200 - Tempo: 254ms
+Requisição #1403 - Status: 200 - Tempo: 340ms
+Requisição #1400 - Status: 200 - Tempo: 426ms
+Requisição #1404 - Status: 200 - Tempo: 513ms
+Requisição #1405 - Status: 200 - Tempo: 602ms
+Requisição #1406 - Status: 200 - Tempo: 693ms
+Requisição #1407 - Status: 200 - Tempo: 780ms
+Requisição #1408 - Status: 200 - Tempo: 871ms
+Requisição #1409 - Status: 200 - Tempo: 963ms
+Requisição #1410 - Status: 200 - Tempo: 1051ms
+Requisição #1411 - Status: 200 - Tempo: 1144ms
+Requisição #1412 - Status: 200 - Tempo: 1245ms
+Requisição #845 - ERRO: read ECONNRESET - Tempo: 16253ms
+Requisição #844 - ERRO: read ECONNRESET - Tempo: 16253ms
+Requisição #1413 - Status: 200 - Tempo: 1366ms
+Requisição #1414 - Status: 200 - Tempo: 1457ms
+Requisição #1415 - Status: 200 - Tempo: 1548ms
+Requisição #1416 - Status: 200 - Tempo: 1638ms
+Requisição #1417 - Status: 200 - Tempo: 1728ms
+Requisição #1418 - Status: 200 - Tempo: 1816ms
+Requisição #1419 - Status: 200 - Tempo: 1905ms
+Requisição #1420 - Status: 200 - Tempo: 2001ms
+Requisição #1421 - Status: 200 - Tempo: 2090ms
+Requisição #1422 - Status: 200 - Tempo: 2183ms
+Requisição #1423 - Status: 200 - Tempo: 2274ms
+Requisição #1424 - Status: 200 - Tempo: 2369ms
+Requisição #1425 - Status: 200 - Tempo: 2478ms
+Requisição #1426 - Status: 200 - Tempo: 2563ms
+Requisição #1427 - Status: 200 - Tempo: 2671ms
+Requisição #1428 - Status: 200 - Tempo: 2758ms
+Requisição #1429 - Status: 200 - Tempo: 2843ms
+Requisição #1430 - Status: 200 - Tempo: 2939ms
+Requisição #1431 - Status: 200 - Tempo: 3043ms
+Requisição #1432 - Status: 200 - Tempo: 3131ms
+Requisição #1433 - Status: 200 - Tempo: 3219ms
+Requisição #859 - ERRO: read ETIMEDOUT - Tempo: 18279ms
+Requisição #858 - ERRO: read ETIMEDOUT - Tempo: 18280ms
+Requisição #855 - ERRO: read ETIMEDOUT - Tempo: 18369ms
+Requisição #854 - ERRO: read ETIMEDOUT - Tempo: 18370ms
+Requisição #853 - ERRO: read ETIMEDOUT - Tempo: 18370ms
+Requisição #852 - ERRO: read ETIMEDOUT - Tempo: 18370ms
+Requisição #851 - ERRO: read ETIMEDOUT - Tempo: 18371ms
+Requisição #850 - ERRO: read ETIMEDOUT - Tempo: 18371ms
+Requisição #849 - ERRO: read ETIMEDOUT - Tempo: 18372ms
+Requisição #848 - ERRO: read ETIMEDOUT - Tempo: 18372ms
+Requisição #847 - ERRO: read ETIMEDOUT - Tempo: 18372ms
+Requisição #846 - ERRO: read ETIMEDOUT - Tempo: 18373ms
+Requisição #758 - ERRO: read ETIMEDOUT - Tempo: 23651ms
+Requisição #757 - ERRO: read ETIMEDOUT - Tempo: 23652ms
+Requisição #756 - ERRO: read ETIMEDOUT - Tempo: 23652ms
+Requisição #755 - ERRO: read ETIMEDOUT - Tempo: 23653ms
+Requisição #754 - ERRO: read ETIMEDOUT - Tempo: 23653ms
+Requisição #753 - ERRO: read ETIMEDOUT - Tempo: 23653ms
+Requisição #752 - ERRO: read ETIMEDOUT - Tempo: 23653ms
+Requisição #751 - ERRO: read ETIMEDOUT - Tempo: 23653ms
+Requisição #750 - ERRO: read ETIMEDOUT - Tempo: 23654ms
+Requisição #749 - ERRO: read ETIMEDOUT - Tempo: 23654ms
+Requisição #748 - ERRO: read ETIMEDOUT - Tempo: 23654ms
+Requisição #747 - ERRO: read ETIMEDOUT - Tempo: 23654ms
+Requisição #798 - ERRO: read ETIMEDOUT - Tempo: 24703ms
+Requisição #797 - ERRO: read ETIMEDOUT - Tempo: 24704ms
+Requisição #796 - ERRO: read ETIMEDOUT - Tempo: 24705ms
+Requisição #795 - ERRO: read ETIMEDOUT - Tempo: 24705ms
+Requisição #794 - ERRO: read ETIMEDOUT - Tempo: 24705ms
+Requisição #793 - ERRO: read ETIMEDOUT - Tempo: 24705ms
+Requisição #792 - ERRO: read ETIMEDOUT - Tempo: 24705ms
+Requisição #791 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #790 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #789 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #788 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #787 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #746 - ERRO: read ETIMEDOUT - Tempo: 24709ms
+Requisição #745 - ERRO: read ETIMEDOUT - Tempo: 24709ms
+Requisição #744 - ERRO: read ETIMEDOUT - Tempo: 24709ms
+Requisição #741 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #740 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #739 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #738 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #737 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #736 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #735 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #734 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #733 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #732 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #731 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #730 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #729 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #728 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #727 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #890 - ERRO: read ETIMEDOUT - Tempo: 20019ms
+Requisição #889 - ERRO: read ETIMEDOUT - Tempo: 20019ms
+Requisição #888 - ERRO: read ETIMEDOUT - Tempo: 20020ms
+Requisição #887 - ERRO: read ETIMEDOUT - Tempo: 20020ms
+Requisição #886 - ERRO: read ETIMEDOUT - Tempo: 20020ms
+Requisição #885 - ERRO: read ETIMEDOUT - Tempo: 20021ms
+Requisição #884 - ERRO: read ETIMEDOUT - Tempo: 20021ms
+Requisição #883 - ERRO: read ETIMEDOUT - Tempo: 20021ms
+Requisição #882 - ERRO: read ETIMEDOUT - Tempo: 20021ms
+Requisição #881 - ERRO: read ETIMEDOUT - Tempo: 20022ms
+Requisição #880 - ERRO: read ETIMEDOUT - Tempo: 20022ms
+Requisição #879 - ERRO: read ETIMEDOUT - Tempo: 20022ms
+Requisição #878 - ERRO: read ETIMEDOUT - Tempo: 20022ms
+Requisição #877 - ERRO: read ETIMEDOUT - Tempo: 20022ms
+Requisição #443 - ERRO: Timeout - Tempo: 30029ms
+Requisição #444 - ERRO: Timeout - Tempo: 30029ms
+Requisição #445 - ERRO: Timeout - Tempo: 30029ms
+Requisição #446 - ERRO: Timeout - Tempo: 30028ms
+Requisição #447 - ERRO: Timeout - Tempo: 30028ms
+Requisição #448 - ERRO: Timeout - Tempo: 30028ms
+Requisição #449 - ERRO: Timeout - Tempo: 30028ms
+Requisição #450 - ERRO: Timeout - Tempo: 30028ms
+Requisição #451 - ERRO: Timeout - Tempo: 30028ms
+Requisição #452 - ERRO: Timeout - Tempo: 30028ms
+Requisição #453 - ERRO: Timeout - Tempo: 30028ms
+Requisição #454 - ERRO: Timeout - Tempo: 30028ms
+Requisição #455 - ERRO: Timeout - Tempo: 30028ms
+Requisição #456 - ERRO: Timeout - Tempo: 30028ms
+Requisição #457 - ERRO: Timeout - Tempo: 30029ms
+Requisição #458 - ERRO: Timeout - Tempo: 30029ms
+Requisição #459 - ERRO: Timeout - Tempo: 30029ms
+Requisição #460 - ERRO: Timeout - Tempo: 30029ms
+Requisição #461 - ERRO: Timeout - Tempo: 30028ms
+Requisição #462 - ERRO: Timeout - Tempo: 30028ms
+Requisição #463 - ERRO: Timeout - Tempo: 30028ms
+Requisição #464 - ERRO: Timeout - Tempo: 30028ms
+Requisição #465 - ERRO: Timeout - Tempo: 30028ms
+Requisição #466 - ERRO: Timeout - Tempo: 30028ms
+Requisição #467 - ERRO: Timeout - Tempo: 30028ms
+Requisição #468 - ERRO: Timeout - Tempo: 30029ms
+Requisição #469 - ERRO: Timeout - Tempo: 30029ms
+Requisição #470 - ERRO: Timeout - Tempo: 30029ms
+Requisição #471 - ERRO: Timeout - Tempo: 30029ms
+Requisição #472 - ERRO: Timeout - Tempo: 30029ms
+Requisição #473 - ERRO: Timeout - Tempo: 30029ms
+Requisição #474 - ERRO: Timeout - Tempo: 30029ms
+Requisição #475 - ERRO: Timeout - Tempo: 30029ms
+Requisição #476 - ERRO: Timeout - Tempo: 30029ms
+Requisição #477 - ERRO: Timeout - Tempo: 30029ms
+Requisição #478 - ERRO: Timeout - Tempo: 30028ms
+Requisição #479 - ERRO: Timeout - Tempo: 30028ms
+Requisição #480 - ERRO: Timeout - Tempo: 30027ms
+Requisição #480 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #479 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #478 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #477 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #476 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #475 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #474 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #473 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #472 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #471 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #470 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #469 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #468 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #467 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #466 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #465 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #464 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #463 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #462 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #461 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #460 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #459 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #458 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #457 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #456 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #455 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #454 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #453 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #452 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #451 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #450 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #449 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #448 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #447 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #446 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #445 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #444 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #443 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #481 - ERRO: Timeout - Tempo: 30029ms
+Requisição #482 - ERRO: Timeout - Tempo: 30030ms
+Requisição #483 - ERRO: Timeout - Tempo: 30030ms
+Requisição #484 - ERRO: Timeout - Tempo: 30030ms
+Requisição #485 - ERRO: Timeout - Tempo: 30030ms
+Requisição #486 - ERRO: Timeout - Tempo: 30030ms
+Requisição #487 - ERRO: Timeout - Tempo: 30030ms
+Requisição #488 - ERRO: Timeout - Tempo: 30030ms
+Requisição #489 - ERRO: Timeout - Tempo: 30030ms
+Requisição #489 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #488 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #487 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #486 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #485 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #484 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #483 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #482 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #481 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #490 - ERRO: Timeout - Tempo: 30031ms
+Requisição #491 - ERRO: Timeout - Tempo: 30031ms
+Requisição #492 - ERRO: Timeout - Tempo: 30031ms
+Requisição #493 - ERRO: Timeout - Tempo: 30031ms
+Requisição #494 - ERRO: Timeout - Tempo: 30031ms
+Requisição #495 - ERRO: Timeout - Tempo: 30031ms
+Requisição #496 - ERRO: Timeout - Tempo: 30030ms
+Requisição #497 - ERRO: Timeout - Tempo: 30030ms
+Requisição #498 - ERRO: Timeout - Tempo: 30030ms
+Requisição #499 - ERRO: Timeout - Tempo: 30030ms
+Requisição #500 - ERRO: Timeout - Tempo: 30030ms
+Requisição #501 - ERRO: Timeout - Tempo: 30030ms
+Requisição #502 - ERRO: Timeout - Tempo: 30030ms
+Requisição #503 - ERRO: Timeout - Tempo: 30030ms
+Requisição #504 - ERRO: Timeout - Tempo: 30030ms
+Requisição #505 - ERRO: Timeout - Tempo: 30030ms
+Requisição #506 - ERRO: Timeout - Tempo: 30030ms
+Requisição #507 - ERRO: Timeout - Tempo: 30030ms
+Requisição #508 - ERRO: Timeout - Tempo: 30030ms
+Requisição #509 - ERRO: Timeout - Tempo: 30031ms
+Requisição #509 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #508 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #507 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #506 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #505 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #504 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #503 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #502 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #501 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #500 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #499 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #498 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #497 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #496 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #495 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #494 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #493 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #492 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #491 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #490 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #510 - ERRO: Timeout - Tempo: 30032ms
+Requisição #511 - ERRO: Timeout - Tempo: 30032ms
+Requisição #512 - ERRO: Timeout - Tempo: 30032ms
+Requisição #513 - ERRO: Timeout - Tempo: 30031ms
+Requisição #514 - ERRO: Timeout - Tempo: 30031ms
+Requisição #514 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #513 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #512 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #511 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #510 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #515 - ERRO: Timeout - Tempo: 30031ms
+Requisição #516 - ERRO: Timeout - Tempo: 30031ms
+Requisição #517 - ERRO: Timeout - Tempo: 30031ms
+Requisição #518 - ERRO: Timeout - Tempo: 30032ms
+Requisição #519 - ERRO: Timeout - Tempo: 30032ms
+Requisição #520 - ERRO: Timeout - Tempo: 30032ms
+Requisição #521 - ERRO: Timeout - Tempo: 30032ms
+Requisição #522 - ERRO: Timeout - Tempo: 30032ms
+Requisição #523 - ERRO: Timeout - Tempo: 30032ms
+Requisição #524 - ERRO: Timeout - Tempo: 30032ms
+Requisição #525 - ERRO: Timeout - Tempo: 30032ms
+Requisição #526 - ERRO: Timeout - Tempo: 30032ms
+Requisição #527 - ERRO: Timeout - Tempo: 30032ms
+Requisição #528 - ERRO: Timeout - Tempo: 30032ms
+Requisição #529 - ERRO: Timeout - Tempo: 30031ms
+Requisição #530 - ERRO: Timeout - Tempo: 30031ms
+Requisição #531 - ERRO: Timeout - Tempo: 30031ms
+Requisição #531 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #530 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #529 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #528 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #527 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #526 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #525 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #524 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #523 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #522 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #521 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #520 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #519 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #518 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #517 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #516 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #515 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #532 - ERRO: Timeout - Tempo: 30032ms
+Requisição #533 - ERRO: Timeout - Tempo: 30032ms
+Requisição #534 - ERRO: Timeout - Tempo: 30032ms
+Requisição #535 - ERRO: Timeout - Tempo: 30031ms
+Requisição #536 - ERRO: Timeout - Tempo: 30031ms
+Requisição #537 - ERRO: Timeout - Tempo: 30031ms
+Requisição #538 - ERRO: Timeout - Tempo: 30031ms
+Requisição #539 - ERRO: Timeout - Tempo: 30032ms
+Requisição #540 - ERRO: Timeout - Tempo: 30032ms
+Requisição #541 - ERRO: Timeout - Tempo: 30032ms
+Requisição #542 - ERRO: Timeout - Tempo: 30032ms
+Requisição #543 - ERRO: Timeout - Tempo: 30032ms
+Requisição #544 - ERRO: Timeout - Tempo: 30032ms
+Requisição #545 - ERRO: Timeout - Tempo: 30032ms
+Requisição #546 - ERRO: Timeout - Tempo: 30032ms
+Requisição #547 - ERRO: Timeout - Tempo: 30032ms
+Requisição #548 - ERRO: Timeout - Tempo: 30032ms
+Requisição #549 - ERRO: Timeout - Tempo: 30032ms
+Requisição #550 - ERRO: Timeout - Tempo: 30032ms
+Requisição #551 - ERRO: Timeout - Tempo: 30032ms
+Requisição #552 - ERRO: Timeout - Tempo: 30031ms
+Requisição #553 - ERRO: Timeout - Tempo: 30031ms
+Requisição #554 - ERRO: Timeout - Tempo: 30031ms
+Requisição #555 - ERRO: Timeout - Tempo: 30031ms
+Requisição #556 - ERRO: Timeout - Tempo: 30032ms
+Requisição #557 - ERRO: Timeout - Tempo: 30032ms
+Requisição #558 - ERRO: Timeout - Tempo: 30032ms
+Requisição #559 - ERRO: Timeout - Tempo: 30032ms
+Requisição #560 - ERRO: Timeout - Tempo: 30032ms
+Requisição #561 - ERRO: Timeout - Tempo: 30032ms
+Requisição #562 - ERRO: Timeout - Tempo: 30032ms
+Requisição #563 - ERRO: Timeout - Tempo: 30032ms
+Requisição #564 - ERRO: Timeout - Tempo: 30032ms
+Requisição #565 - ERRO: Timeout - Tempo: 30032ms
+Requisição #566 - ERRO: Timeout - Tempo: 30032ms
+Requisição #567 - ERRO: Timeout - Tempo: 30032ms
+Requisição #568 - ERRO: Timeout - Tempo: 30032ms
+Requisição #569 - ERRO: Timeout - Tempo: 30031ms
+Requisição #570 - ERRO: Timeout - Tempo: 30031ms
+Requisição #570 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #569 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #568 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #567 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #566 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #565 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #564 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #563 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #562 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #561 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #560 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #559 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #558 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #557 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #556 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #555 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #554 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #553 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #552 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #551 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #550 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #549 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #548 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #547 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #546 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #545 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #544 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #543 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #542 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #541 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #540 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #539 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #538 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #537 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #536 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #535 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #534 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #533 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #532 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #571 - ERRO: Timeout - Tempo: 30033ms
+Requisição #572 - ERRO: Timeout - Tempo: 30033ms
+Requisição #573 - ERRO: Timeout - Tempo: 30033ms
+Requisição #574 - ERRO: Timeout - Tempo: 30033ms
+Requisição #575 - ERRO: Timeout - Tempo: 30033ms
+Requisição #576 - ERRO: Timeout - Tempo: 30033ms
+Requisição #577 - ERRO: Timeout - Tempo: 30034ms
+Requisição #578 - ERRO: Timeout - Tempo: 30034ms
+Requisição #579 - ERRO: Timeout - Tempo: 30034ms
+Requisição #580 - ERRO: Timeout - Tempo: 30033ms
+Requisição #581 - ERRO: Timeout - Tempo: 30033ms
+Requisição #582 - ERRO: Timeout - Tempo: 30033ms
+Requisição #583 - ERRO: Timeout - Tempo: 30033ms
+Requisição #584 - ERRO: Timeout - Tempo: 30033ms
+Requisição #585 - ERRO: Timeout - Tempo: 30033ms
+Requisição #586 - ERRO: Timeout - Tempo: 30033ms
+Requisição #587 - ERRO: Timeout - Tempo: 30033ms
+Requisição #588 - ERRO: Timeout - Tempo: 30032ms
+Requisição #589 - ERRO: Timeout - Tempo: 30032ms
+Requisição #590 - ERRO: Timeout - Tempo: 30032ms
+Requisição #591 - ERRO: Timeout - Tempo: 30032ms
+Requisição #592 - ERRO: Timeout - Tempo: 30032ms
+Requisição #593 - ERRO: Timeout - Tempo: 30032ms
+Requisição #594 - ERRO: Timeout - Tempo: 30032ms
+Requisição #595 - ERRO: Timeout - Tempo: 30032ms
+Requisição #596 - ERRO: Timeout - Tempo: 30032ms
+Requisição #597 - ERRO: Timeout - Tempo: 30032ms
+Requisição #598 - ERRO: Timeout - Tempo: 30033ms
+Requisição #599 - ERRO: Timeout - Tempo: 30033ms
+Requisição #599 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #598 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #597 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #596 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #595 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #594 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #593 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #592 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #591 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #590 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #589 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #588 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #587 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #586 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #585 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #584 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #583 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #582 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #581 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #580 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #579 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #578 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #577 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #576 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #575 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #574 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #573 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #572 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #571 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #1600 - Status: 200 - Tempo: 159ms
+Requisição #1601 - Status: 200 - Tempo: 260ms
+Requisição #1602 - Status: 200 - Tempo: 365ms
+Requisição #1603 - Status: 200 - Tempo: 456ms
+Requisição #1604 - Status: 200 - Tempo: 548ms
+Requisição #1605 - Status: 200 - Tempo: 635ms
+Requisição #1606 - Status: 200 - Tempo: 723ms
+Requisição #1607 - Status: 200 - Tempo: 811ms
+Requisição #1608 - Status: 200 - Tempo: 910ms
+Requisição #1609 - Status: 200 - Tempo: 1039ms
+Requisição #1610 - Status: 200 - Tempo: 1143ms
+Requisição #783 - ERRO: read ETIMEDOUT - Tempo: 26237ms
+Requisição #782 - ERRO: read ETIMEDOUT - Tempo: 26237ms
+Requisição #781 - ERRO: read ETIMEDOUT - Tempo: 26237ms
+Requisição #780 - ERRO: read ETIMEDOUT - Tempo: 26237ms
+Requisição #779 - ERRO: read ETIMEDOUT - Tempo: 26237ms
+Requisição #778 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #777 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #776 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #775 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #774 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #773 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #772 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #771 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #770 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #769 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #768 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #767 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #726 - ERRO: read ETIMEDOUT - Tempo: 26242ms
+Requisição #725 - ERRO: read ETIMEDOUT - Tempo: 26242ms
+Requisição #724 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #723 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #722 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #721 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #720 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #719 - ERRO: read ETIMEDOUT - Tempo: 26244ms
+Requisição #1611 - Status: 200 - Tempo: 1251ms
+Requisição #1612 - Status: 200 - Tempo: 1336ms
+Requisição #1613 - Status: 200 - Tempo: 1421ms
+Requisição #1614 - Status: 200 - Tempo: 1520ms
+Requisição #876 - ERRO: read ETIMEDOUT - Tempo: 21538ms
+Requisição #875 - ERRO: read ETIMEDOUT - Tempo: 21538ms
+Requisição #874 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #873 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #872 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #871 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #870 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #869 - ERRO: read ETIMEDOUT - Tempo: 21540ms
+Requisição #868 - ERRO: read ETIMEDOUT - Tempo: 21540ms
+Requisição #867 - ERRO: read ETIMEDOUT - Tempo: 21540ms
+Requisição #866 - ERRO: read ETIMEDOUT - Tempo: 21541ms
+Requisição #865 - ERRO: read ETIMEDOUT - Tempo: 21541ms
+Requisição #1615 - Status: 200 - Tempo: 1610ms
+Requisição #1616 - Status: 200 - Tempo: 1697ms
+Requisição #1617 - Status: 200 - Tempo: 1795ms
+Requisição #1618 - Status: 200 - Tempo: 1891ms
+Requisição #1619 - Status: 200 - Tempo: 1997ms
+Requisição #1620 - Status: 200 - Tempo: 2096ms
+Requisição #1621 - Status: 200 - Tempo: 2196ms
+Requisição #1622 - Status: 200 - Tempo: 2283ms
+Requisição #1623 - Status: 200 - Tempo: 2368ms
+Requisição #934 - ERRO: read ETIMEDOUT - Tempo: 24706ms
+Requisição #933 - ERRO: read ETIMEDOUT - Tempo: 24708ms
+Requisição #932 - ERRO: read ETIMEDOUT - Tempo: 24708ms
+Requisição #931 - ERRO: read ETIMEDOUT - Tempo: 24708ms
+Requisição #914 - ERRO: read ETIMEDOUT - Tempo: 24709ms
+Requisição #913 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #912 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #911 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #910 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #909 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #908 - ERRO: read ETIMEDOUT - Tempo: 24710ms
+Requisição #907 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #906 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #905 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #904 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #903 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #902 - ERRO: read ETIMEDOUT - Tempo: 24711ms
+Requisição #901 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #900 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #899 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #898 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #897 - ERRO: read ETIMEDOUT - Tempo: 24712ms
+Requisição #896 - ERRO: read ETIMEDOUT - Tempo: 24713ms
+Requisição #895 - ERRO: read ETIMEDOUT - Tempo: 24713ms
+Requisição #891 - ERRO: read ETIMEDOUT - Tempo: 24713ms
+Requisição #643 - ERRO: Timeout - Tempo: 30026ms
+Requisição #644 - ERRO: Timeout - Tempo: 30026ms
+Requisição #645 - ERRO: Timeout - Tempo: 30027ms
+Requisição #646 - ERRO: Timeout - Tempo: 30027ms
+Requisição #647 - ERRO: Timeout - Tempo: 30027ms
+Requisição #648 - ERRO: Timeout - Tempo: 30026ms
+Requisição #649 - ERRO: Timeout - Tempo: 30026ms
+Requisição #650 - ERRO: Timeout - Tempo: 30026ms
+Requisição #651 - ERRO: Timeout - Tempo: 30026ms
+Requisição #652 - ERRO: Timeout - Tempo: 30026ms
+Requisição #653 - ERRO: Timeout - Tempo: 30026ms
+Requisição #654 - ERRO: Timeout - Tempo: 30026ms
+Requisição #655 - ERRO: Timeout - Tempo: 30026ms
+Requisição #656 - ERRO: Timeout - Tempo: 30026ms
+Requisição #657 - ERRO: Timeout - Tempo: 30027ms
+Requisição #658 - ERRO: Timeout - Tempo: 30027ms
+Requisição #659 - ERRO: Timeout - Tempo: 30026ms
+Requisição #659 - ERRO: socket hang up - Tempo: 30026ms
+Requisição #658 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #657 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #656 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #655 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #654 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #653 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #652 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #651 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #650 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #649 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #648 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #647 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #646 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #645 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #644 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #643 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #660 - ERRO: Timeout - Tempo: 30027ms
+Requisição #661 - ERRO: Timeout - Tempo: 30027ms
+Requisição #662 - ERRO: Timeout - Tempo: 30028ms
+Requisição #663 - ERRO: Timeout - Tempo: 30028ms
+Requisição #664 - ERRO: Timeout - Tempo: 30028ms
+Requisição #665 - ERRO: Timeout - Tempo: 30028ms
+Requisição #666 - ERRO: Timeout - Tempo: 30028ms
+Requisição #667 - ERRO: Timeout - Tempo: 30027ms
+Requisição #668 - ERRO: Timeout - Tempo: 30027ms
+Requisição #669 - ERRO: Timeout - Tempo: 30027ms
+Requisição #670 - ERRO: Timeout - Tempo: 30027ms
+Requisição #671 - ERRO: Timeout - Tempo: 30027ms
+Requisição #672 - ERRO: Timeout - Tempo: 30027ms
+Requisição #673 - ERRO: Timeout - Tempo: 30027ms
+Requisição #674 - ERRO: Timeout - Tempo: 30027ms
+Requisição #675 - ERRO: Timeout - Tempo: 30028ms
+Requisição #676 - ERRO: Timeout - Tempo: 30028ms
+Requisição #677 - ERRO: Timeout - Tempo: 30028ms
+Requisição #677 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #676 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #675 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #674 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #673 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #672 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #671 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #670 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #669 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #668 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #667 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #666 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #665 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #664 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #663 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #662 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #661 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #660 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #678 - ERRO: Timeout - Tempo: 30030ms
+Requisição #679 - ERRO: Timeout - Tempo: 30029ms
+Requisição #680 - ERRO: Timeout - Tempo: 30029ms
+Requisição #681 - ERRO: Timeout - Tempo: 30029ms
+Requisição #682 - ERRO: Timeout - Tempo: 30029ms
+Requisição #683 - ERRO: Timeout - Tempo: 30029ms
+Requisição #684 - ERRO: Timeout - Tempo: 30029ms
+Requisição #685 - ERRO: Timeout - Tempo: 30029ms
+Requisição #686 - ERRO: Timeout - Tempo: 30029ms
+Requisição #687 - ERRO: Timeout - Tempo: 30029ms
+Requisição #688 - ERRO: Timeout - Tempo: 30029ms
+Requisição #689 - ERRO: Timeout - Tempo: 30029ms
+Requisição #690 - ERRO: Timeout - Tempo: 30029ms
+Requisição #691 - ERRO: Timeout - Tempo: 30027ms
+Requisição #692 - ERRO: Timeout - Tempo: 30027ms
+Requisição #693 - ERRO: Timeout - Tempo: 30028ms
+Requisição #693 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #692 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #691 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #690 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #689 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #688 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #687 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #686 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #685 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #684 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #683 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #682 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #681 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #680 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #679 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #678 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #694 - ERRO: Timeout - Tempo: 30029ms
+Requisição #695 - ERRO: Timeout - Tempo: 30029ms
+Requisição #696 - ERRO: Timeout - Tempo: 30029ms
+Requisição #697 - ERRO: Timeout - Tempo: 30029ms
+Requisição #698 - ERRO: Timeout - Tempo: 30029ms
+Requisição #699 - ERRO: Timeout - Tempo: 30029ms
+Requisição #700 - ERRO: Timeout - Tempo: 30029ms
+Requisição #701 - ERRO: Timeout - Tempo: 30029ms
+Requisição #702 - ERRO: Timeout - Tempo: 30029ms
+Requisição #703 - ERRO: Timeout - Tempo: 30029ms
+Requisição #703 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #702 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #701 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #700 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #699 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #698 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #697 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #696 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #695 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #694 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #704 - ERRO: Timeout - Tempo: 30030ms
+Requisição #705 - ERRO: Timeout - Tempo: 30030ms
+Requisição #706 - ERRO: Timeout - Tempo: 30030ms
+Requisição #707 - ERRO: Timeout - Tempo: 30029ms
+Requisição #707 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #706 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #705 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #704 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #708 - ERRO: Timeout - Tempo: 30029ms
+Requisição #708 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #742 - ERRO: Timeout - Tempo: 30030ms
+Requisição #743 - ERRO: Timeout - Tempo: 30029ms
+Requisição #759 - ERRO: Timeout - Tempo: 30029ms
+Requisição #760 - ERRO: Timeout - Tempo: 30029ms
+Requisição #761 - ERRO: Timeout - Tempo: 30028ms
+Requisição #762 - ERRO: Timeout - Tempo: 30028ms
+Requisição #762 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #761 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #760 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #759 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #743 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #742 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #763 - ERRO: Timeout - Tempo: 30028ms
+Requisição #764 - ERRO: Timeout - Tempo: 30029ms
+Requisição #764 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #763 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #765 - ERRO: Timeout - Tempo: 30030ms
+Requisição #766 - ERRO: Timeout - Tempo: 30030ms
+Requisição #784 - ERRO: Timeout - Tempo: 30029ms
+Requisição #785 - ERRO: Timeout - Tempo: 30029ms
+Requisição #786 - ERRO: Timeout - Tempo: 30029ms
+Requisição #799 - ERRO: Timeout - Tempo: 30028ms
+Requisição #799 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #786 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #785 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #784 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #766 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #765 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #1800 - Status: 200 - Tempo: 128ms
+Requisição #1801 - Status: 200 - Tempo: 239ms
+Requisição #1802 - Status: 200 - Tempo: 325ms
+Requisição #1803 - Status: 200 - Tempo: 412ms
+Requisição #1804 - Status: 200 - Tempo: 499ms
+Requisição #1805 - Status: 200 - Tempo: 597ms
+Requisição #1806 - Status: 200 - Tempo: 701ms
+Requisição #1807 - Status: 200 - Tempo: 796ms
+Requisição #1808 - Status: 200 - Tempo: 890ms
+Requisição #1809 - Status: 200 - Tempo: 977ms
+Requisição #1810 - Status: 200 - Tempo: 1074ms
+Requisição #1811 - Status: 200 - Tempo: 1167ms
+Requisição #928 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #927 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #926 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #925 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #924 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #923 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #922 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #921 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #920 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #919 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #918 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #894 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #893 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #892 - ERRO: read ETIMEDOUT - Tempo: 26243ms
+Requisição #991 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #990 - ERRO: read ETIMEDOUT - Tempo: 26238ms
+Requisição #986 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #985 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #984 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #983 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #982 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #981 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #980 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #979 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #978 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #977 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #976 - ERRO: read ETIMEDOUT - Tempo: 26239ms
+Requisição #975 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #974 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #973 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #972 - ERRO: read ETIMEDOUT - Tempo: 26240ms
+Requisição #971 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #970 - ERRO: read ETIMEDOUT - Tempo: 26241ms
+Requisição #1812 - Status: 200 - Tempo: 1253ms
+Requisição #1813 - Status: 200 - Tempo: 1354ms
+Requisição #1593 - ERRO: read ECONNRESET - Tempo: 11374ms
+Requisição #1592 - ERRO: read ECONNRESET - Tempo: 11374ms
+Requisição #1591 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1590 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1589 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1588 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1587 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1586 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1585 - ERRO: read ECONNRESET - Tempo: 11376ms
+Requisição #1584 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1583 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1582 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1581 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1580 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1579 - ERRO: read ECONNRESET - Tempo: 11377ms
+Requisição #1548 - ERRO: read ECONNRESET - Tempo: 11379ms
+Requisição #1547 - ERRO: read ECONNRESET - Tempo: 11379ms
+Requisição #1546 - ERRO: read ECONNRESET - Tempo: 11379ms
+Requisição #1545 - ERRO: read ECONNRESET - Tempo: 11379ms
+Requisição #1544 - ERRO: read ECONNRESET - Tempo: 11379ms
+Requisição #1543 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1542 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1541 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1540 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1539 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1538 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1537 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1536 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1535 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1534 - ERRO: read ECONNRESET - Tempo: 11380ms
+Requisição #1533 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1532 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1531 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1530 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1529 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1528 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1527 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1526 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1525 - ERRO: read ECONNRESET - Tempo: 11382ms
+Requisição #1460 - ERRO: read ECONNRESET - Tempo: 11389ms
+Requisição #1459 - ERRO: read ECONNRESET - Tempo: 11389ms
+Requisição #1458 - ERRO: read ECONNRESET - Tempo: 11389ms
+Requisição #1457 - ERRO: read ECONNRESET - Tempo: 11390ms
+Requisição #1456 - ERRO: read ECONNRESET - Tempo: 11390ms
+Requisição #1455 - ERRO: read ECONNRESET - Tempo: 11390ms
+Requisição #1454 - ERRO: read ECONNRESET - Tempo: 11390ms
+Requisição #1453 - ERRO: read ECONNRESET - Tempo: 11390ms
+Requisição #1578 - ERRO: read ECONNRESET - Tempo: 11384ms
+Requisição #1577 - ERRO: read ECONNRESET - Tempo: 11384ms
+Requisição #1576 - ERRO: read ECONNRESET - Tempo: 11384ms
+Requisição #1575 - ERRO: read ECONNRESET - Tempo: 11384ms
+Requisição #1574 - ERRO: read ECONNRESET - Tempo: 11384ms
+Requisição #1573 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1572 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1571 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1570 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1569 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1568 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1567 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1566 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1565 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1564 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1563 - ERRO: read ECONNRESET - Tempo: 11386ms
+Requisição #1562 - ERRO: read ECONNRESET - Tempo: 11387ms
+Requisição #1561 - ERRO: read ECONNRESET - Tempo: 11387ms
+Requisição #1814 - Status: 200 - Tempo: 1441ms
+Requisição #1516 - ERRO: read ECONNRESET - Tempo: 11583ms
+Requisição #1515 - ERRO: read ECONNRESET - Tempo: 11583ms
+Requisição #1514 - ERRO: read ECONNRESET - Tempo: 11584ms
+Requisição #1513 - ERRO: read ECONNRESET - Tempo: 11584ms
+Requisição #1512 - ERRO: read ECONNRESET - Tempo: 11585ms
+Requisição #1511 - ERRO: read ECONNRESET - Tempo: 11585ms
+Requisição #1510 - ERRO: read ECONNRESET - Tempo: 11585ms
+Requisição #1509 - ERRO: read ECONNRESET - Tempo: 11585ms
+Requisição #1508 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1507 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1506 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1505 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1504 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1503 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1502 - ERRO: read ECONNRESET - Tempo: 11586ms
+Requisição #1501 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1500 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1499 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1498 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1497 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1496 - ERRO: read ECONNRESET - Tempo: 11587ms
+Requisição #1495 - ERRO: read ECONNRESET - Tempo: 11588ms
+Requisição #1494 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1493 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1492 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1491 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1490 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1489 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1488 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1487 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1486 - ERRO: read ECONNRESET - Tempo: 11589ms
+Requisição #1524 - ERRO: read ECONNRESET - Tempo: 12051ms
+Requisição #1555 - ERRO: read ECONNRESET - Tempo: 12098ms
+Requisição #1554 - ERRO: read ECONNRESET - Tempo: 12100ms
+Requisição #1553 - ERRO: read ECONNRESET - Tempo: 12102ms
+Requisição #1552 - ERRO: read ECONNRESET - Tempo: 12102ms
+Requisição #1551 - ERRO: read ECONNRESET - Tempo: 12102ms
+Requisição #1550 - ERRO: read ECONNRESET - Tempo: 12102ms
+Requisição #1549 - ERRO: read ECONNRESET - Tempo: 12103ms
+Requisição #1480 - ERRO: read ECONNRESET - Tempo: 12107ms
+Requisição #1479 - ERRO: read ECONNRESET - Tempo: 12107ms
+Requisição #1478 - ERRO: read ECONNRESET - Tempo: 12107ms
+Requisição #1477 - ERRO: read ECONNRESET - Tempo: 12107ms
+Requisição #1476 - ERRO: read ECONNRESET - Tempo: 12108ms
+Requisição #1475 - ERRO: read ECONNRESET - Tempo: 12108ms
+Requisição #1474 - ERRO: read ECONNRESET - Tempo: 12110ms
+Requisição #1473 - ERRO: read ECONNRESET - Tempo: 12110ms
+Requisição #1472 - ERRO: read ECONNRESET - Tempo: 12110ms
+Requisição #1471 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1470 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1469 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1468 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1467 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1466 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1465 - ERRO: read ECONNRESET - Tempo: 12112ms
+Requisição #1464 - ERRO: read ECONNRESET - Tempo: 12113ms
+Requisição #1463 - ERRO: read ECONNRESET - Tempo: 12114ms
+Requisição #1451 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1450 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1449 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1448 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1447 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1446 - ERRO: read ECONNRESET - Tempo: 12115ms
+Requisição #1445 - ERRO: read ECONNRESET - Tempo: 12116ms
+Requisição #1444 - ERRO: read ECONNRESET - Tempo: 12116ms
+Requisição #1442 - ERRO: read ECONNRESET - Tempo: 12116ms
+Requisição #1441 - ERRO: read ECONNRESET - Tempo: 12117ms
+Requisição #1440 - ERRO: read ECONNRESET - Tempo: 12117ms
+Requisição #1439 - ERRO: read ECONNRESET - Tempo: 12117ms
+Requisição #1443 - ERRO: read ECONNRESET - Tempo: 12117ms
+Requisição #1438 - ERRO: read ECONNRESET - Tempo: 12118ms
+Requisição #1437 - ERRO: read ECONNRESET - Tempo: 12118ms
+Requisição #1436 - ERRO: read ECONNRESET - Tempo: 12118ms
+Requisição #1435 - ERRO: read ECONNRESET - Tempo: 12118ms
+Requisição #1434 - ERRO: read ECONNRESET - Tempo: 12118ms
+Requisição #966 - ERRO: read ETIMEDOUT - Tempo: 27295ms
+Requisição #965 - ERRO: read ETIMEDOUT - Tempo: 27296ms
+Requisição #964 - ERRO: read ETIMEDOUT - Tempo: 27296ms
+Requisição #963 - ERRO: read ETIMEDOUT - Tempo: 27297ms
+Requisição #962 - ERRO: read ETIMEDOUT - Tempo: 27297ms
+Requisição #961 - ERRO: read ETIMEDOUT - Tempo: 27297ms
+Requisição #960 - ERRO: read ETIMEDOUT - Tempo: 27297ms
+Requisição #959 - ERRO: read ETIMEDOUT - Tempo: 27298ms
+Requisição #958 - ERRO: read ETIMEDOUT - Tempo: 27298ms
+Requisição #957 - ERRO: read ETIMEDOUT - Tempo: 27298ms
+Requisição #956 - ERRO: read ETIMEDOUT - Tempo: 27298ms
+Requisição #955 - ERRO: read ETIMEDOUT - Tempo: 27298ms
+Requisição #954 - ERRO: read ETIMEDOUT - Tempo: 27300ms
+Requisição #953 - ERRO: read ETIMEDOUT - Tempo: 27300ms
+Requisição #952 - ERRO: read ETIMEDOUT - Tempo: 27300ms
+Requisição #951 - ERRO: read ETIMEDOUT - Tempo: 27300ms
+Requisição #1272 - ERRO: read ETIMEDOUT - Tempo: 18083ms
+Requisição #1271 - ERRO: read ETIMEDOUT - Tempo: 18083ms
+Requisição #1270 - ERRO: read ETIMEDOUT - Tempo: 18084ms
+Requisição #1269 - ERRO: read ETIMEDOUT - Tempo: 18084ms
+Requisição #1265 - ERRO: read ETIMEDOUT - Tempo: 18085ms
+Requisição #1264 - ERRO: read ETIMEDOUT - Tempo: 18085ms
+Requisição #1263 - ERRO: read ETIMEDOUT - Tempo: 18085ms
+Requisição #1262 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1261 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1260 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1259 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1258 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1257 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1256 - ERRO: read ETIMEDOUT - Tempo: 18086ms
+Requisição #1255 - ERRO: read ETIMEDOUT - Tempo: 18087ms
+Requisição #1254 - ERRO: read ETIMEDOUT - Tempo: 18087ms
+Requisição #1253 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1252 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1251 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1250 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1249 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1248 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1247 - ERRO: read ETIMEDOUT - Tempo: 18088ms
+Requisição #1246 - ERRO: read ETIMEDOUT - Tempo: 18089ms
+Requisição #1245 - ERRO: read ETIMEDOUT - Tempo: 18089ms
+Requisição #1244 - ERRO: read ETIMEDOUT - Tempo: 18089ms
+Requisição #1291 - ERRO: read ETIMEDOUT - Tempo: 18176ms
+Requisição #1290 - ERRO: read ETIMEDOUT - Tempo: 18176ms
+Requisição #1289 - ERRO: read ETIMEDOUT - Tempo: 18177ms
+Requisição #1288 - ERRO: read ETIMEDOUT - Tempo: 18177ms
+Requisição #1287 - ERRO: read ETIMEDOUT - Tempo: 18177ms
+Requisição #1286 - ERRO: read ETIMEDOUT - Tempo: 18177ms
+Requisição #1285 - ERRO: read ETIMEDOUT - Tempo: 18177ms
+Requisição #1268 - ERRO: read ETIMEDOUT - Tempo: 18178ms
+Requisição #1267 - ERRO: read ETIMEDOUT - Tempo: 18178ms
+Requisição #1266 - ERRO: read ETIMEDOUT - Tempo: 18179ms
+Requisição #1284 - ERRO: read ETIMEDOUT - Tempo: 18278ms
+Requisição #1283 - ERRO: read ETIMEDOUT - Tempo: 18278ms
+Requisição #1282 - ERRO: read ETIMEDOUT - Tempo: 18279ms
+Requisição #1281 - ERRO: read ETIMEDOUT - Tempo: 18279ms
+Requisição #1280 - ERRO: read ETIMEDOUT - Tempo: 18279ms
+Requisição #1279 - ERRO: read ETIMEDOUT - Tempo: 18280ms
+Requisição #1278 - ERRO: read ETIMEDOUT - Tempo: 18280ms
+Requisição #1277 - ERRO: read ETIMEDOUT - Tempo: 18281ms
+Requisição #943 - ERRO: read ETIMEDOUT - Tempo: 28351ms
+Requisição #942 - ERRO: read ETIMEDOUT - Tempo: 28351ms
+Requisição #1308 - ERRO: read ETIMEDOUT - Tempo: 18949ms
+Requisição #1307 - ERRO: read ETIMEDOUT - Tempo: 18949ms
+Requisição #1306 - ERRO: read ETIMEDOUT - Tempo: 18950ms
+Requisição #1305 - ERRO: read ETIMEDOUT - Tempo: 18950ms
+Requisição #1304 - ERRO: read ETIMEDOUT - Tempo: 18950ms
+Requisição #1303 - ERRO: read ETIMEDOUT - Tempo: 18950ms
+Requisição #1302 - ERRO: read ETIMEDOUT - Tempo: 18951ms
+Requisição #1301 - ERRO: read ETIMEDOUT - Tempo: 18951ms
+Requisição #1298 - ERRO: read ETIMEDOUT - Tempo: 20023ms
+Requisição #1297 - ERRO: read ETIMEDOUT - Tempo: 20023ms
+Requisição #1296 - ERRO: read ETIMEDOUT - Tempo: 20024ms
+Requisição #1295 - ERRO: read ETIMEDOUT - Tempo: 20025ms
+Requisição #1294 - ERRO: read ETIMEDOUT - Tempo: 20025ms
+Requisição #1293 - ERRO: read ETIMEDOUT - Tempo: 20025ms
+Requisição #992 - ERRO: Timeout - Tempo: 30016ms
+Requisição #993 - ERRO: Timeout - Tempo: 30016ms
+Requisição #994 - ERRO: Timeout - Tempo: 30016ms
+Requisição #995 - ERRO: Timeout - Tempo: 30016ms
+Requisição #996 - ERRO: Timeout - Tempo: 30016ms
+Requisição #997 - ERRO: Timeout - Tempo: 30016ms
+Requisição #998 - ERRO: Timeout - Tempo: 30016ms
+Requisição #999 - ERRO: Timeout - Tempo: 30016ms
+Requisição #843 - ERRO: Timeout - Tempo: 30028ms
+Requisição #856 - ERRO: Timeout - Tempo: 30027ms
+Requisição #857 - ERRO: Timeout - Tempo: 30027ms
+Requisição #860 - ERRO: Timeout - Tempo: 30026ms
+Requisição #861 - ERRO: Timeout - Tempo: 30026ms
+Requisição #862 - ERRO: Timeout - Tempo: 30026ms
+Requisição #863 - ERRO: Timeout - Tempo: 30027ms
+Requisição #863 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #862 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #861 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #860 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #857 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #856 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #843 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #999 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #998 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #997 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #996 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #995 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #994 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #993 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #992 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #864 - ERRO: Timeout - Tempo: 30029ms
+Requisição #864 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #915 - ERRO: Timeout - Tempo: 30028ms
+Requisição #916 - ERRO: Timeout - Tempo: 30028ms
+Requisição #917 - ERRO: Timeout - Tempo: 30028ms
+Requisição #917 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #916 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #915 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #929 - ERRO: Timeout - Tempo: 30030ms
+Requisição #930 - ERRO: Timeout - Tempo: 30030ms
+Requisição #935 - ERRO: Timeout - Tempo: 30029ms
+Requisição #936 - ERRO: Timeout - Tempo: 30029ms
+Requisição #937 - ERRO: Timeout - Tempo: 30028ms
+Requisição #937 - ERRO: socket hang up - Tempo: 30028ms
+Requisição #936 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #935 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #930 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #929 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #938 - ERRO: Timeout - Tempo: 30029ms
+Requisição #939 - ERRO: Timeout - Tempo: 30029ms
+Requisição #940 - ERRO: Timeout - Tempo: 30029ms
+Requisição #941 - ERRO: Timeout - Tempo: 30029ms
+Requisição #941 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #940 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #939 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #938 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #944 - ERRO: Timeout - Tempo: 30030ms
+Requisição #945 - ERRO: Timeout - Tempo: 30030ms
+Requisição #946 - ERRO: Timeout - Tempo: 30030ms
+Requisição #947 - ERRO: Timeout - Tempo: 30030ms
+Requisição #947 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #946 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #945 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #944 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #948 - ERRO: Timeout - Tempo: 30031ms
+Requisição #949 - ERRO: Timeout - Tempo: 30031ms
+Requisição #950 - ERRO: Timeout - Tempo: 30031ms
+Requisição #967 - ERRO: Timeout - Tempo: 30030ms
+Requisição #968 - ERRO: Timeout - Tempo: 30030ms
+Requisição #969 - ERRO: Timeout - Tempo: 30030ms
+Requisição #969 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #968 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #967 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #950 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #949 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #948 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #987 - ERRO: Timeout - Tempo: 30030ms
+Requisição #988 - ERRO: Timeout - Tempo: 30030ms
+Requisição #989 - ERRO: Timeout - Tempo: 30030ms
+Requisição #989 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #988 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #987 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #2000 - Status: 200 - Tempo: 185ms
+Requisição #2001 - Status: 200 - Tempo: 287ms
+Requisição #2002 - Status: 200 - Tempo: 379ms
+Requisição #2003 - Status: 200 - Tempo: 466ms
+Requisição #2004 - Status: 200 - Tempo: 557ms
+Requisição #1924 - ERRO: read ECONNRESET - Tempo: 7085ms
+Requisição #1923 - ERRO: read ECONNRESET - Tempo: 7086ms
+Requisição #1919 - ERRO: read ECONNRESET - Tempo: 7087ms
+Requisição #1918 - ERRO: read ECONNRESET - Tempo: 7087ms
+Requisição #1917 - ERRO: read ECONNRESET - Tempo: 7087ms
+Requisição #1916 - ERRO: read ECONNRESET - Tempo: 7087ms
+Requisição #1898 - ERRO: read ECONNRESET - Tempo: 7090ms
+Requisição #1897 - ERRO: read ECONNRESET - Tempo: 7090ms
+Requisição #1896 - ERRO: read ECONNRESET - Tempo: 7090ms
+Requisição #1893 - ERRO: read ECONNRESET - Tempo: 7090ms
+Requisição #1892 - ERRO: read ECONNRESET - Tempo: 7091ms
+Requisição #1891 - ERRO: read ECONNRESET - Tempo: 7091ms
+Requisição #1890 - ERRO: read ECONNRESET - Tempo: 7091ms
+Requisição #1889 - ERRO: read ECONNRESET - Tempo: 7091ms
+Requisição #1888 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1887 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1886 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1885 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1884 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1883 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1882 - ERRO: read ECONNRESET - Tempo: 7093ms
+Requisição #1881 - ERRO: read ECONNRESET - Tempo: 7094ms
+Requisição #1880 - ERRO: read ECONNRESET - Tempo: 7094ms
+Requisição #1877 - ERRO: read ECONNRESET - Tempo: 7094ms
+Requisição #1876 - ERRO: read ECONNRESET - Tempo: 7094ms
+Requisição #1875 - ERRO: read ECONNRESET - Tempo: 7095ms
+Requisição #1874 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1873 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1872 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1871 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1870 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1869 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1868 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1867 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1866 - ERRO: read ECONNRESET - Tempo: 7096ms
+Requisição #1865 - ERRO: read ECONNRESET - Tempo: 7097ms
+Requisição #1864 - ERRO: read ECONNRESET - Tempo: 7097ms
+Requisição #1863 - ERRO: read ECONNRESET - Tempo: 7097ms
+Requisição #1862 - ERRO: read ECONNRESET - Tempo: 7097ms
+Requisição #1861 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1857 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1856 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1855 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1854 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1853 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1852 - ERRO: read ECONNRESET - Tempo: 7099ms
+Requisição #1915 - ERRO: read ECONNRESET - Tempo: 7095ms
+Requisição #1878 - ERRO: read ECONNRESET - Tempo: 7097ms
+Requisição #1851 - ERRO: read ECONNRESET - Tempo: 7100ms
+Requisição #1850 - ERRO: read ECONNRESET - Tempo: 7100ms
+Requisição #1849 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1848 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1847 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1846 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1845 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1844 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1843 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1842 - ERRO: read ECONNRESET - Tempo: 7101ms
+Requisição #1839 - ERRO: read ECONNRESET - Tempo: 7102ms
+Requisição #1838 - ERRO: read ECONNRESET - Tempo: 7102ms
+Requisição #1837 - ERRO: read ECONNRESET - Tempo: 7102ms
+Requisição #1836 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1835 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1831 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1834 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1833 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1832 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1830 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1829 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1828 - ERRO: read ECONNRESET - Tempo: 7103ms
+Requisição #1825 - ERRO: read ECONNRESET - Tempo: 7105ms
+Requisição #1824 - ERRO: read ECONNRESET - Tempo: 7105ms
+Requisição #1822 - ERRO: read ECONNRESET - Tempo: 7106ms
+Requisição #1821 - ERRO: read ECONNRESET - Tempo: 7106ms
+Requisição #1820 - ERRO: read ECONNRESET - Tempo: 7106ms
+Requisição #1819 - ERRO: read ECONNRESET - Tempo: 7106ms
+Requisição #1990 - ERRO: read ECONNRESET - Tempo: 8075ms
+Requisição #1989 - ERRO: read ECONNRESET - Tempo: 8078ms
+Requisição #1988 - ERRO: read ECONNRESET - Tempo: 8079ms
+Requisição #1984 - ERRO: read ECONNRESET - Tempo: 8079ms
+Requisição #1987 - ERRO: read ECONNRESET - Tempo: 8079ms
+Requisição #1922 - ERRO: read ECONNRESET - Tempo: 8089ms
+Requisição #1921 - ERRO: read ECONNRESET - Tempo: 8089ms
+Requisição #1920 - ERRO: read ECONNRESET - Tempo: 8090ms
+Requisição #1911 - ERRO: read ECONNRESET - Tempo: 8091ms
+Requisição #1910 - ERRO: read ECONNRESET - Tempo: 8091ms
+Requisição #1909 - ERRO: read ECONNRESET - Tempo: 8091ms
+Requisição #1914 - ERRO: read ECONNRESET - Tempo: 8092ms
+Requisição #1913 - ERRO: read ECONNRESET - Tempo: 8092ms
+Requisição #1912 - ERRO: read ECONNRESET - Tempo: 8092ms
+Requisição #1908 - ERRO: read ECONNRESET - Tempo: 8092ms
+Requisição #1907 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1906 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1905 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1904 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1903 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1902 - ERRO: read ECONNRESET - Tempo: 8093ms
+Requisição #1901 - ERRO: read ECONNRESET - Tempo: 8094ms
+Requisição #1900 - ERRO: read ECONNRESET - Tempo: 8094ms
+Requisição #1899 - ERRO: read ECONNRESET - Tempo: 8094ms
+Requisição #1895 - ERRO: read ECONNRESET - Tempo: 8095ms
+Requisição #1993 - ERRO: read ECONNRESET - Tempo: 9473ms
+Requisição #1968 - ERRO: read ECONNRESET - Tempo: 9476ms
+Requisição #1967 - ERRO: read ECONNRESET - Tempo: 9476ms
+Requisição #1966 - ERRO: read ECONNRESET - Tempo: 9476ms
+Requisição #1965 - ERRO: read ECONNRESET - Tempo: 9477ms
+Requisição #1964 - ERRO: read ECONNRESET - Tempo: 9478ms
+Requisição #1963 - ERRO: read ECONNRESET - Tempo: 9478ms
+Requisição #1962 - ERRO: read ECONNRESET - Tempo: 9478ms
+Requisição #1961 - ERRO: read ECONNRESET - Tempo: 9479ms
+Requisição #1960 - ERRO: read ECONNRESET - Tempo: 9479ms
+Requisição #1959 - ERRO: read ECONNRESET - Tempo: 9479ms
+Requisição #1958 - ERRO: read ECONNRESET - Tempo: 9479ms
+Requisição #1957 - ERRO: read ECONNRESET - Tempo: 9480ms
+Requisição #1956 - ERRO: read ECONNRESET - Tempo: 9480ms
+Requisição #1955 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1954 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1953 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1952 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1951 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1950 - ERRO: read ECONNRESET - Tempo: 9481ms
+Requisição #1949 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1948 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1947 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1946 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1945 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1944 - ERRO: read ECONNRESET - Tempo: 9482ms
+Requisição #1943 - ERRO: read ECONNRESET - Tempo: 9483ms
+Requisição #1942 - ERRO: read ECONNRESET - Tempo: 9483ms
+Requisição #1940 - ERRO: read ECONNRESET - Tempo: 9486ms
+Requisição #1939 - ERRO: read ECONNRESET - Tempo: 9488ms
+Requisição #1938 - ERRO: read ECONNRESET - Tempo: 9488ms
+Requisição #1937 - ERRO: read ECONNRESET - Tempo: 9488ms
+Requisição #1936 - ERRO: read ECONNRESET - Tempo: 9488ms
+Requisição #1935 - ERRO: read ECONNRESET - Tempo: 9488ms
+Requisição #1934 - ERRO: read ECONNRESET - Tempo: 9489ms
+Requisição #1933 - ERRO: read ECONNRESET - Tempo: 9502ms
+
+--- Fim do ataque DDoS: 2025-03-30T15:20:47.853Z ---
+Total de requisições: 2200
+Requisições bem-sucedidas: 277
+Requisições falhas: 723
+Tempo médio de resposta: 10065.37ms
+Requisição #1043 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1044 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1045 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1046 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1047 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1048 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1049 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1050 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1051 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1051 - ERRO: socket hang up - Tempo: 30000ms
+Requisição #1050 - ERRO: socket hang up - Tempo: 30002ms
+Requisição #1049 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1048 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1047 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1046 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1045 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1044 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1043 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1052 - ERRO: Timeout - Tempo: 30004ms
+Requisição #1053 - ERRO: Timeout - Tempo: 30004ms
+Requisição #1054 - ERRO: Timeout - Tempo: 30004ms
+Requisição #1055 - ERRO: Timeout - Tempo: 30004ms
+Requisição #1056 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1057 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1058 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1059 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1060 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1061 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1062 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1063 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1064 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1065 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1066 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1067 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1068 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1069 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1070 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1071 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1072 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1073 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1074 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1075 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1076 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1077 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1078 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1079 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1080 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1081 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1082 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1083 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1084 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1085 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1086 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1087 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1088 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1089 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1090 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1091 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1092 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1093 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1094 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1095 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1096 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1097 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1098 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1099 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1100 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1101 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1102 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1103 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1103 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1102 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1101 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1100 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1099 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1098 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1097 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1096 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1095 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #1094 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #1093 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #1092 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #1091 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #1090 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1089 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1088 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1087 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1086 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1085 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1084 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1083 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1082 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1081 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1080 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1079 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1078 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1077 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1076 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1075 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1074 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1073 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1072 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1071 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1070 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1069 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1068 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1067 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1066 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1065 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1064 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1063 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1062 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1061 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1060 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1059 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1058 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1057 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1056 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1055 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1054 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1053 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1052 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1104 - ERRO: Timeout - Tempo: 30012ms
+Requisição #1105 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1106 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1107 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1108 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1109 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1110 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1111 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1112 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1113 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1114 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1115 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1116 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1117 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1118 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1119 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1120 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1121 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1122 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1123 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1124 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1125 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1126 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1127 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1128 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1129 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1130 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1131 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1132 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1133 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1134 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1135 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1136 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1137 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1138 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1139 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1140 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1141 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1142 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1143 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1144 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1145 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1146 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1147 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1148 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1149 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1150 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1151 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1152 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1153 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1154 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1155 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1156 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1157 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1158 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1159 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1160 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1161 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1162 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1163 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1164 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1165 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1166 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1167 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1168 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1169 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1170 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1171 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1172 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1173 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1174 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1175 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1176 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1177 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1178 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1179 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1180 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1181 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1182 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1183 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1184 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1185 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1186 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1187 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1188 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1189 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1190 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1191 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1192 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1193 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1194 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1195 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1196 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1197 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1198 - ERRO: Timeout - Tempo: 30010ms
+Requisição #1199 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1199 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1198 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1197 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1196 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1195 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1194 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1193 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1192 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1191 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1190 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1189 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1188 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1187 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1186 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1185 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1184 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1183 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1182 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1181 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1180 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1179 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1178 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1177 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1176 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1175 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1174 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1173 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1172 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1171 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1170 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1169 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1168 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1167 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1166 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1165 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1164 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1163 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1162 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1161 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1160 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1159 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1158 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1157 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1156 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1155 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1154 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1153 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1152 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1151 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1150 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1149 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1148 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1147 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1146 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1145 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1144 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1143 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1142 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1141 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1140 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1139 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1138 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1137 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1136 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1135 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1134 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1133 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1132 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1131 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1130 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1129 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1128 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1127 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1126 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1125 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1124 - ERRO: socket hang up - Tempo: 30022ms
+Requisição #1123 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1122 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1121 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1120 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1119 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1118 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1117 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1116 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1115 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1114 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1113 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1112 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1111 - ERRO: socket hang up - Tempo: 30023ms
+Requisição #1110 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1109 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1108 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1107 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1106 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1105 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1104 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1312 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1313 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1314 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1315 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1316 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1317 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1318 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1319 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1320 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1321 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1322 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1323 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1324 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1325 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1326 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1327 - ERRO: Timeout - Tempo: 30003ms
+Requisição #1328 - ERRO: Timeout - Tempo: 30003ms
+Requisição #1329 - ERRO: Timeout - Tempo: 30003ms
+Requisição #1329 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1328 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1327 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1326 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1325 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1324 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1323 - ERRO: socket hang up - Tempo: 30004ms
+Requisição #1322 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1321 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1320 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1319 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1318 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1317 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1316 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1315 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1314 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1313 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1312 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1330 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1331 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1332 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1333 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1334 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1335 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1336 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1337 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1338 - ERRO: Timeout - Tempo: 30005ms
+Requisição #1339 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1340 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1341 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1342 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1343 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1344 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1345 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1346 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1347 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1348 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1349 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1350 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1351 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1352 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1353 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1354 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1355 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1356 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1357 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1358 - ERRO: Timeout - Tempo: 30006ms
+Requisição #1359 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1360 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1361 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1362 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1363 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1364 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1365 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1366 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1367 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1368 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1369 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1370 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1371 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1372 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1373 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1374 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1375 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1376 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1377 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1378 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1379 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1380 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1381 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1382 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1383 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1384 - ERRO: Timeout - Tempo: 30007ms
+Requisição #1385 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1386 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1387 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1388 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1389 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1390 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1391 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1392 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1393 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1394 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1395 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1396 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1397 - ERRO: Timeout - Tempo: 30008ms
+Requisição #1398 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1399 - ERRO: Timeout - Tempo: 30009ms
+Requisição #1399 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1398 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1397 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1396 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1395 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1394 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1393 - ERRO: socket hang up - Tempo: 30009ms
+Requisição #1392 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1391 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1390 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1389 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1388 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1387 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1386 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1385 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1384 - ERRO: socket hang up - Tempo: 30010ms
+Requisição #1383 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1382 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1381 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1380 - ERRO: socket hang up - Tempo: 30011ms
+Requisição #1379 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1378 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1377 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1376 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1375 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1374 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1373 - ERRO: socket hang up - Tempo: 30012ms
+Requisição #1372 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1371 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1370 - ERRO: socket hang up - Tempo: 30013ms
+Requisição #1369 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1368 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1367 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1366 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1365 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1364 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1363 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1362 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1361 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1360 - ERRO: socket hang up - Tempo: 30014ms
+Requisição #1359 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1358 - ERRO: socket hang up - Tempo: 30015ms
+Requisição #1357 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1356 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1355 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1354 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1353 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1352 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1351 - ERRO: socket hang up - Tempo: 30016ms
+Requisição #1350 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1349 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1348 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1347 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1346 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1345 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1344 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1343 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1342 - ERRO: socket hang up - Tempo: 30017ms
+Requisição #1341 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1340 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1339 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1338 - ERRO: socket hang up - Tempo: 30018ms
+Requisição #1337 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1336 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1335 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1334 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1333 - ERRO: socket hang up - Tempo: 30019ms
+Requisição #1332 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1331 - ERRO: socket hang up - Tempo: 30020ms
+Requisição #1330 - ERRO: socket hang up - Tempo: 30021ms
+Requisição #1243 - ERRO: Timeout - Tempo: 30028ms
+Requisição #1273 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1274 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1275 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1276 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1292 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1292 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1276 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1275 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1274 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1273 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1243 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #1299 - ERRO: Timeout - Tempo: 30026ms
+Requisição #1300 - ERRO: Timeout - Tempo: 30026ms
+Requisição #1309 - ERRO: Timeout - Tempo: 30026ms
+Requisição #1310 - ERRO: Timeout - Tempo: 30026ms
+Requisição #1311 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1311 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1310 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1309 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1300 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1299 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1764 - ERRO: read ETIMEDOUT - Tempo: 21071ms
+Requisição #1763 - ERRO: read ETIMEDOUT - Tempo: 21072ms
+Requisição #1679 - ERRO: read ETIMEDOUT - Tempo: 21078ms
+Requisição #1678 - ERRO: read ETIMEDOUT - Tempo: 21078ms
+Requisição #1677 - ERRO: read ETIMEDOUT - Tempo: 21079ms
+Requisição #1676 - ERRO: read ETIMEDOUT - Tempo: 21079ms
+Requisição #1675 - ERRO: read ETIMEDOUT - Tempo: 21079ms
+Requisição #1674 - ERRO: read ETIMEDOUT - Tempo: 21080ms
+Requisição #1673 - ERRO: read ETIMEDOUT - Tempo: 21080ms
+Requisição #1672 - ERRO: read ETIMEDOUT - Tempo: 21080ms
+Requisição #1671 - ERRO: read ETIMEDOUT - Tempo: 21080ms
+Requisição #1670 - ERRO: read ETIMEDOUT - Tempo: 21081ms
+Requisição #1669 - ERRO: read ETIMEDOUT - Tempo: 21081ms
+Requisição #1668 - ERRO: read ETIMEDOUT - Tempo: 21081ms
+Requisição #1667 - ERRO: read ETIMEDOUT - Tempo: 21081ms
+Requisição #1666 - ERRO: read ETIMEDOUT - Tempo: 21081ms
+Requisição #1665 - ERRO: read ETIMEDOUT - Tempo: 21082ms
+Requisição #1664 - ERRO: read ETIMEDOUT - Tempo: 21086ms
+Requisição #1663 - ERRO: read ETIMEDOUT - Tempo: 21086ms
+Requisição #1662 - ERRO: read ETIMEDOUT - Tempo: 21086ms
+Requisição #1661 - ERRO: read ETIMEDOUT - Tempo: 21086ms
+Requisição #1660 - ERRO: read ETIMEDOUT - Tempo: 21086ms
+Requisição #1659 - ERRO: read ETIMEDOUT - Tempo: 21087ms
+Requisição #1658 - ERRO: read ETIMEDOUT - Tempo: 21087ms
+Requisição #1657 - ERRO: read ETIMEDOUT - Tempo: 21087ms
+Requisição #1656 - ERRO: read ETIMEDOUT - Tempo: 21088ms
+Requisição #1655 - ERRO: read ETIMEDOUT - Tempo: 21088ms
+Requisição #1654 - ERRO: read ETIMEDOUT - Tempo: 21089ms
+Requisição #1653 - ERRO: read ETIMEDOUT - Tempo: 21090ms
+Requisição #1652 - ERRO: read ETIMEDOUT - Tempo: 21090ms
+Requisição #1651 - ERRO: read ETIMEDOUT - Tempo: 21090ms
+Requisição #1650 - ERRO: read ETIMEDOUT - Tempo: 21090ms
+Requisição #1633 - ERRO: read ETIMEDOUT - Tempo: 21092ms
+Requisição #1632 - ERRO: read ETIMEDOUT - Tempo: 21092ms
+Requisição #1631 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1630 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1629 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1628 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1627 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1626 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1625 - ERRO: read ETIMEDOUT - Tempo: 21093ms
+Requisição #1624 - ERRO: read ETIMEDOUT - Tempo: 21094ms
+Requisição #1649 - ERRO: read ETIMEDOUT - Tempo: 21092ms
+Requisição #1648 - ERRO: read ETIMEDOUT - Tempo: 21092ms
+Requisição #1594 - ERRO: Timeout - Tempo: 29999ms
+Requisição #1595 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1596 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1597 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1598 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1599 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1599 - ERRO: socket hang up - Tempo: 30002ms
+Requisição #1598 - ERRO: socket hang up - Tempo: 30002ms
+Requisição #1597 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1596 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1595 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1594 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1523 - ERRO: Timeout - Tempo: 34022ms
+Requisição #1522 - ERRO: Timeout - Tempo: 34023ms
+Requisição #1521 - ERRO: Timeout - Tempo: 34023ms
+Requisição #1520 - ERRO: Timeout - Tempo: 34023ms
+Requisição #1519 - ERRO: Timeout - Tempo: 34024ms
+Requisição #1518 - ERRO: Timeout - Tempo: 34024ms
+Requisição #1517 - ERRO: Timeout - Tempo: 34024ms
+Requisição #1517 - ERRO: socket hang up - Tempo: 34024ms
+Requisição #1518 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1519 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1520 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1521 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1522 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1523 - ERRO: socket hang up - Tempo: 34025ms
+Requisição #1485 - ERRO: Timeout - Tempo: 34028ms
+Requisição #1484 - ERRO: Timeout - Tempo: 34028ms
+Requisição #1483 - ERRO: Timeout - Tempo: 34028ms
+Requisição #1482 - ERRO: Timeout - Tempo: 34028ms
+Requisição #1481 - ERRO: Timeout - Tempo: 34028ms
+Requisição #1481 - ERRO: socket hang up - Tempo: 34029ms
+Requisição #1482 - ERRO: socket hang up - Tempo: 34029ms
+Requisição #1483 - ERRO: socket hang up - Tempo: 34029ms
+Requisição #1484 - ERRO: socket hang up - Tempo: 34029ms
+Requisição #1485 - ERRO: socket hang up - Tempo: 34029ms
+Requisição #1462 - ERRO: Timeout - Tempo: 34036ms
+Requisição #1461 - ERRO: Timeout - Tempo: 34036ms
+Requisição #1461 - ERRO: socket hang up - Tempo: 34036ms
+Requisição #1462 - ERRO: socket hang up - Tempo: 34036ms
+Requisição #1452 - ERRO: Timeout - Tempo: 34040ms
+Requisição #1558 - ERRO: Timeout - Tempo: 34032ms
+Requisição #1557 - ERRO: Timeout - Tempo: 34032ms
+Requisição #1556 - ERRO: Timeout - Tempo: 34032ms
+Requisição #1556 - ERRO: socket hang up - Tempo: 34032ms
+Requisição #1557 - ERRO: socket hang up - Tempo: 34032ms
+Requisição #1558 - ERRO: socket hang up - Tempo: 34032ms
+Requisição #1452 - ERRO: socket hang up - Tempo: 34042ms
+Requisição #1560 - ERRO: Timeout - Tempo: 34037ms
+Requisição #1559 - ERRO: Timeout - Tempo: 34038ms
+Requisição #1559 - ERRO: socket hang up - Tempo: 34038ms
+Requisição #1560 - ERRO: socket hang up - Tempo: 34038ms
+Requisição #1768 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1769 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1770 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1771 - ERRO: Timeout - Tempo: 30000ms
+Requisição #1772 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1773 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1774 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1775 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1776 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1777 - ERRO: Timeout - Tempo: 30001ms
+Requisição #1778 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1779 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1780 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1781 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1782 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1783 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1784 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1785 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1786 - ERRO: Timeout - Tempo: 30003ms
+Requisição #1787 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1788 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1789 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1790 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1791 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1792 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1793 - ERRO: Timeout - Tempo: 30002ms
+Requisição #1793 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1792 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1791 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1790 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1789 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1788 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1787 - ERRO: socket hang up - Tempo: 30003ms
+Requisição #1786 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1785 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1784 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1783 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1782 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1781 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1780 - ERRO: socket hang up - Tempo: 30005ms
+Requisição #1779 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1778 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1777 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1776 - ERRO: socket hang up - Tempo: 30006ms
+Requisição #1775 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1774 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1773 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1772 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1771 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1770 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1769 - ERRO: socket hang up - Tempo: 30007ms
+Requisição #1768 - ERRO: socket hang up - Tempo: 30008ms
+Requisição #2183 - ERRO: read ETIMEDOUT - Tempo: 20074ms
+Requisição #2182 - ERRO: read ETIMEDOUT - Tempo: 20074ms
+Requisição #2181 - ERRO: read ETIMEDOUT - Tempo: 20074ms
+Requisição #2180 - ERRO: read ETIMEDOUT - Tempo: 20074ms
+Requisição #2179 - ERRO: read ETIMEDOUT - Tempo: 20074ms
+Requisição #2178 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2177 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2176 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2175 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2174 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2173 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #2172 - ERRO: read ETIMEDOUT - Tempo: 20075ms
+Requisição #1983 - ERRO: read ETIMEDOUT - Tempo: 25078ms
+Requisição #1982 - ERRO: read ETIMEDOUT - Tempo: 25078ms
+Requisição #1981 - ERRO: read ETIMEDOUT - Tempo: 25078ms
+Requisição #1980 - ERRO: read ETIMEDOUT - Tempo: 25078ms
+Requisição #1978 - ERRO: read ETIMEDOUT - Tempo: 25083ms
+Requisição #1977 - ERRO: read ETIMEDOUT - Tempo: 25083ms
+Requisição #2058 - ERRO: read ETIMEDOUT - Tempo: 21539ms
+Requisição #2057 - ERRO: read ETIMEDOUT - Tempo: 21540ms
+Requisição #2056 - ERRO: read ETIMEDOUT - Tempo: 21540ms
+Requisição #2055 - ERRO: read ETIMEDOUT - Tempo: 21541ms
+Requisição #2054 - ERRO: read ETIMEDOUT - Tempo: 21541ms
+Requisição #2026 - ERRO: read ETIMEDOUT - Tempo: 21545ms
+Requisição #2025 - ERRO: read ETIMEDOUT - Tempo: 21545ms
+Requisição #2024 - ERRO: read ETIMEDOUT - Tempo: 21546ms
+Requisição #2023 - ERRO: read ETIMEDOUT - Tempo: 21547ms
+Requisição #2157 - ERRO: read ETIMEDOUT - Tempo: 22537ms
+Requisição #2039 - ERRO: read ETIMEDOUT - Tempo: 22595ms
+Requisição #2038 - ERRO: read ETIMEDOUT - Tempo: 22596ms
+Requisição #2037 - ERRO: read ETIMEDOUT - Tempo: 22597ms
+Requisição #2036 - ERRO: read ETIMEDOUT - Tempo: 22597ms
+Requisição #2035 - ERRO: read ETIMEDOUT - Tempo: 22597ms
+Requisição #2034 - ERRO: read ETIMEDOUT - Tempo: 22599ms
+Requisição #1647 - ERRO: Timeout - Tempo: 33023ms
+Requisição #1646 - ERRO: Timeout - Tempo: 33024ms
+Requisição #1645 - ERRO: Timeout - Tempo: 33025ms
+Requisição #1644 - ERRO: Timeout - Tempo: 33025ms
+Requisição #1643 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1642 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1641 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1640 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1639 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1638 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1637 - ERRO: Timeout - Tempo: 33026ms
+Requisição #1637 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1638 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1639 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1640 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1641 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1642 - ERRO: socket hang up - Tempo: 33028ms
+Requisição #1643 - ERRO: socket hang up - Tempo: 33028ms
+Requisição #1644 - ERRO: socket hang up - Tempo: 33028ms
+Requisição #1645 - ERRO: socket hang up - Tempo: 33028ms
+Requisição #1646 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1647 - ERRO: socket hang up - Tempo: 33027ms
+Requisição #1636 - ERRO: Timeout - Tempo: 33028ms
+Requisição #1635 - ERRO: Timeout - Tempo: 33029ms
+Requisição #1634 - ERRO: Timeout - Tempo: 33030ms
+Requisição #1680 - ERRO: Timeout - Tempo: 33023ms
+Requisição #1680 - ERRO: socket hang up - Tempo: 33023ms
+Requisição #1634 - ERRO: socket hang up - Tempo: 33030ms
+Requisição #1635 - ERRO: socket hang up - Tempo: 33029ms
+Requisição #1636 - ERRO: socket hang up - Tempo: 33029ms
+Requisição #1767 - ERRO: Timeout - Tempo: 33017ms
+Requisição #1766 - ERRO: Timeout - Tempo: 33017ms
+Requisição #1765 - ERRO: Timeout - Tempo: 33018ms
+Requisição #1765 - ERRO: socket hang up - Tempo: 33018ms
+Requisição #1766 - ERRO: socket hang up - Tempo: 33018ms
+Requisição #1767 - ERRO: socket hang up - Tempo: 33018ms
+Requisição #2139 - ERRO: read ETIMEDOUT - Tempo: 24648ms
+Requisição #2138 - ERRO: read ETIMEDOUT - Tempo: 24649ms
+Requisição #2137 - ERRO: read ETIMEDOUT - Tempo: 24649ms
+Requisição #2136 - ERRO: read ETIMEDOUT - Tempo: 24650ms
+Requisição #2135 - ERRO: read ETIMEDOUT - Tempo: 24650ms
+Requisição #1762 - ERRO: read ETIMEDOUT - Tempo: 34650ms
+Requisição #1761 - ERRO: read ETIMEDOUT - Tempo: 34653ms
+Requisição #1760 - ERRO: read ETIMEDOUT - Tempo: 34653ms
+Requisição #1759 - ERRO: read ETIMEDOUT - Tempo: 34653ms
+Requisição #1758 - ERRO: read ETIMEDOUT - Tempo: 34654ms
+Requisição #1757 - ERRO: read ETIMEDOUT - Tempo: 34654ms
+Requisição #1756 - ERRO: read ETIMEDOUT - Tempo: 34654ms
+Requisição #1755 - ERRO: read ETIMEDOUT - Tempo: 34654ms
+Requisição #1754 - ERRO: read ETIMEDOUT - Tempo: 34654ms
+Requisição #1815 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1816 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1817 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1818 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1823 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1826 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1827 - ERRO: Timeout - Tempo: 30023ms
+Requisição #1827 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1826 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1823 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1818 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1817 - ERRO: socket hang up - Tempo: 30026ms
+Requisição #1816 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1815 - ERRO: socket hang up - Tempo: 30027ms
+Requisição #1840 - ERRO: Timeout - Tempo: 30024ms
+Requisição #1840 - ERRO: socket hang up - Tempo: 30024ms
+Requisição #1841 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1841 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1858 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1859 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1860 - ERRO: Timeout - Tempo: 30025ms
+Requisição #1860 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1859 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1858 - ERRO: socket hang up - Tempo: 30025ms
+Requisição #1879 - ERRO: Timeout - Tempo: 30042ms
+Requisição #1879 - ERRO: socket hang up - Tempo: 30043ms
+Requisição #1894 - ERRO: Timeout - Tempo: 30042ms
+Requisição #1925 - ERRO: Timeout - Tempo: 30040ms
+Requisição #1926 - ERRO: Timeout - Tempo: 30040ms
+Requisição #1927 - ERRO: Timeout - Tempo: 30040ms
+Requisição #1985 - ERRO: Timeout - Tempo: 30037ms
+Requisição #1986 - ERRO: Timeout - Tempo: 30037ms
+Requisição #1991 - ERRO: Timeout - Tempo: 30037ms
+Requisição #1991 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #1986 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #1985 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #1927 - ERRO: socket hang up - Tempo: 30042ms
+Requisição #1926 - ERRO: socket hang up - Tempo: 30042ms
+Requisição #1925 - ERRO: socket hang up - Tempo: 30042ms
+Requisição #1894 - ERRO: socket hang up - Tempo: 30044ms
+Requisição #1932 - ERRO: Timeout - Tempo: 32018ms
+Requisição #1931 - ERRO: Timeout - Tempo: 32018ms
+Requisição #1930 - ERRO: Timeout - Tempo: 32018ms
+Requisição #1929 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1928 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1928 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1929 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1930 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1931 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1932 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1975 - ERRO: Timeout - Tempo: 32016ms
+Requisição #1974 - ERRO: Timeout - Tempo: 32017ms
+Requisição #1973 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1972 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1972 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1973 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1974 - ERRO: socket hang up - Tempo: 32017ms
+Requisição #1975 - ERRO: socket hang up - Tempo: 32017ms
+Requisição #1971 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1970 - ERRO: Timeout - Tempo: 32020ms
+Requisição #1969 - ERRO: Timeout - Tempo: 32020ms
+Requisição #1969 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1970 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1971 - ERRO: socket hang up - Tempo: 32020ms
+Requisição #1941 - ERRO: Timeout - Tempo: 32023ms
+Requisição #1999 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1998 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1997 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1996 - ERRO: Timeout - Tempo: 32019ms
+Requisição #1996 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1997 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1998 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1999 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #1941 - ERRO: socket hang up - Tempo: 32024ms
+Requisição #1995 - ERRO: Timeout - Tempo: 32021ms
+Requisição #1994 - ERRO: Timeout - Tempo: 32022ms
+Requisição #1994 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #1995 - ERRO: socket hang up - Tempo: 32021ms
+Requisição #1992 - ERRO: Timeout - Tempo: 32023ms
+Requisição #1992 - ERRO: socket hang up - Tempo: 32024ms
+Requisição #2005 - ERRO: Timeout - Tempo: 30028ms
+Requisição #2006 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2007 - ERRO: Timeout - Tempo: 30028ms
+Requisição #2008 - ERRO: Timeout - Tempo: 30028ms
+Requisição #2009 - ERRO: Timeout - Tempo: 30028ms
+Requisição #2010 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2011 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2012 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2013 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2014 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2015 - ERRO: Timeout - Tempo: 30030ms
+Requisição #2016 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2017 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2018 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2019 - ERRO: Timeout - Tempo: 30029ms
+Requisição #2019 - ERRO: socket hang up - Tempo: 30029ms
+Requisição #2018 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #2017 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #2016 - ERRO: socket hang up - Tempo: 30030ms
+Requisição #2015 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #2014 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #2013 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #2012 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #2011 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2010 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2009 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2008 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2007 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2006 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2005 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2020 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2021 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2022 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2027 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2028 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2029 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2030 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2031 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2032 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2033 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2040 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2041 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2042 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2043 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2044 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2045 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2046 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2047 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2048 - ERRO: Timeout - Tempo: 30032ms
+Requisição #2049 - ERRO: Timeout - Tempo: 30032ms
+Requisição #2050 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2051 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2052 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2053 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2059 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2060 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2061 - ERRO: Timeout - Tempo: 30031ms
+Requisição #2061 - ERRO: socket hang up - Tempo: 30031ms
+Requisição #2060 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2059 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2053 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2052 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2051 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2050 - ERRO: socket hang up - Tempo: 30032ms
+Requisição #2049 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2048 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2047 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2046 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2045 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2044 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2043 - ERRO: socket hang up - Tempo: 30033ms
+Requisição #2042 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2041 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2040 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2033 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2032 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2031 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2030 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2029 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2028 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2027 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2022 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2021 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2020 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2062 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2063 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2064 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2065 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2066 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2067 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2068 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2069 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2070 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2071 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2072 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2073 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2074 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2075 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2076 - ERRO: Timeout - Tempo: 30033ms
+Requisição #2077 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2078 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2079 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2080 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2081 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2082 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2083 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2083 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2082 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2081 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2080 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2079 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2078 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2077 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2076 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2075 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2074 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2073 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2072 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2071 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2070 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2069 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2068 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2067 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2066 - ERRO: socket hang up - Tempo: 30035ms
+Requisição #2065 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #2064 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2063 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2062 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2084 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2085 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2086 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2087 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2088 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2089 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2090 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2091 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2092 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2093 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2094 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2095 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2096 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2097 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2098 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2099 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2100 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2101 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2102 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2103 - ERRO: Timeout - Tempo: 30035ms
+Requisição #2104 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2105 - ERRO: Timeout - Tempo: 30034ms
+Requisição #2105 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2104 - ERRO: socket hang up - Tempo: 30034ms
+Requisição #2103 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #2102 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #2101 - ERRO: socket hang up - Tempo: 30036ms
+Requisição #2100 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2099 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2098 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2097 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2096 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2095 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2094 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2093 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2092 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2091 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2090 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2089 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2088 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2087 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2086 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2085 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2084 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2106 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2107 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2108 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2109 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2110 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2111 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2112 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2113 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2114 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2115 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2116 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2117 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2118 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2119 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2120 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2121 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2122 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2123 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2124 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2125 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2126 - ERRO: Timeout - Tempo: 30036ms
+Requisição #2127 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2128 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2129 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2130 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2131 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2132 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2133 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2134 - ERRO: Timeout - Tempo: 30037ms
+Requisição #2134 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2133 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2132 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2131 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2130 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2129 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2128 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2127 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2126 - ERRO: socket hang up - Tempo: 30037ms
+Requisição #2125 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2124 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2123 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2122 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2121 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2120 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2119 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2118 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2117 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2116 - ERRO: socket hang up - Tempo: 30038ms
+Requisição #2115 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2114 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2113 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2112 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2111 - ERRO: socket hang up - Tempo: 30039ms
+Requisição #2110 - ERRO: socket hang up - Tempo: 30040ms
+Requisição #2109 - ERRO: socket hang up - Tempo: 30040ms
+Requisição #2108 - ERRO: socket hang up - Tempo: 30040ms
+Requisição #2107 - ERRO: socket hang up - Tempo: 30040ms
+Requisição #2106 - ERRO: socket hang up - Tempo: 30040ms
+Requisição #2171 - ERRO: Timeout - Tempo: 31016ms
+Requisição #2170 - ERRO: Timeout - Tempo: 31016ms
+Requisição #2169 - ERRO: Timeout - Tempo: 31017ms
+Requisição #2168 - ERRO: Timeout - Tempo: 31017ms
+Requisição #2167 - ERRO: Timeout - Tempo: 31017ms
+Requisição #2166 - ERRO: Timeout - Tempo: 31017ms
+Requisição #2165 - ERRO: Timeout - Tempo: 31017ms
+Requisição #2165 - ERRO: socket hang up - Tempo: 31018ms
+Requisição #2166 - ERRO: socket hang up - Tempo: 31018ms
+Requisição #2167 - ERRO: socket hang up - Tempo: 31018ms
+Requisição #2168 - ERRO: socket hang up - Tempo: 31019ms
+Requisição #2169 - ERRO: socket hang up - Tempo: 31019ms
+Requisição #2170 - ERRO: socket hang up - Tempo: 31019ms
+Requisição #2171 - ERRO: socket hang up - Tempo: 31019ms
+Requisição #2164 - ERRO: Timeout - Tempo: 31026ms
+Requisição #2163 - ERRO: Timeout - Tempo: 31026ms
+Requisição #2162 - ERRO: Timeout - Tempo: 31027ms
+Requisição #2161 - ERRO: Timeout - Tempo: 31027ms
+Requisição #2160 - ERRO: Timeout - Tempo: 31028ms
+Requisição #2159 - ERRO: Timeout - Tempo: 31028ms
+Requisição #2158 - ERRO: Timeout - Tempo: 31028ms
+Requisição #2158 - ERRO: socket hang up - Tempo: 31028ms
+Requisição #2159 - ERRO: socket hang up - Tempo: 31029ms
+Requisição #2160 - ERRO: socket hang up - Tempo: 31029ms
+Requisição #2161 - ERRO: socket hang up - Tempo: 31028ms
+Requisição #2162 - ERRO: socket hang up - Tempo: 31028ms
+Requisição #2163 - ERRO: socket hang up - Tempo: 31028ms
+Requisição #2164 - ERRO: socket hang up - Tempo: 31028ms
+Requisição #2156 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2155 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2154 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2153 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2152 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2151 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2150 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2149 - ERRO: Timeout - Tempo: 31030ms
+Requisição #2148 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2147 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2146 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2145 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2144 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2143 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2142 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2141 - ERRO: Timeout - Tempo: 31031ms
+Requisição #2140 - ERRO: Timeout - Tempo: 31032ms
+Requisição #2140 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2141 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2142 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2143 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2144 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2145 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2146 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2147 - ERRO: socket hang up - Tempo: 31032ms
+Requisição #2148 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2149 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2150 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2151 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2152 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2153 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2154 - ERRO: socket hang up - Tempo: 31033ms
+Requisição #2155 - ERRO: socket hang up - Tempo: 31034ms
+Requisição #2156 - ERRO: socket hang up - Tempo: 31034ms
+Requisição #1753 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1752 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1751 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1750 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1749 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1748 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1747 - ERRO: Timeout - Tempo: 41035ms
+Requisição #1746 - ERRO: Timeout - Tempo: 41036ms
+Requisição #1745 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1744 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1743 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1742 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1741 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1740 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1739 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1738 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1737 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1736 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1735 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1734 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1733 - ERRO: Timeout - Tempo: 41037ms
+Requisição #1732 - ERRO: Timeout - Tempo: 41038ms
+Requisição #1731 - ERRO: Timeout - Tempo: 41038ms
+Requisição #1730 - ERRO: Timeout - Tempo: 41038ms
+Requisição #1729 - ERRO: Timeout - Tempo: 41038ms
+Requisição #1729 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1730 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1731 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1732 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1733 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1734 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1735 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1736 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1737 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1738 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1739 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1740 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1741 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1742 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1743 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1744 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1745 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #1746 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1747 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1748 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1749 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1750 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1751 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1752 - ERRO: socket hang up - Tempo: 41038ms
+Requisição #1753 - ERRO: socket hang up - Tempo: 41039ms
+Requisição #2199 - ERRO: Timeout - Tempo: 32015ms
+Requisição #2198 - ERRO: Timeout - Tempo: 32016ms
+Requisição #2198 - ERRO: socket hang up - Tempo: 32016ms
+Requisição #2199 - ERRO: socket hang up - Tempo: 32017ms
+Requisição #2197 - ERRO: Timeout - Tempo: 32017ms
+Requisição #2196 - ERRO: Timeout - Tempo: 32017ms
+Requisição #2195 - ERRO: Timeout - Tempo: 32017ms
+Requisição #2194 - ERRO: Timeout - Tempo: 32018ms
+Requisição #2193 - ERRO: Timeout - Tempo: 32018ms
+Requisição #2192 - ERRO: Timeout - Tempo: 32018ms
+Requisição #2191 - ERRO: Timeout - Tempo: 32018ms
+Requisição #2191 - ERRO: socket hang up - Tempo: 32018ms
+Requisição #2192 - ERRO: socket hang up - Tempo: 32018ms
+Requisição #2193 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #2194 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #2195 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #2196 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #2197 - ERRO: socket hang up - Tempo: 32019ms
+Requisição #2190 - ERRO: Timeout - Tempo: 32019ms
+Requisição #2189 - ERRO: Timeout - Tempo: 32020ms
+Requisição #2188 - ERRO: Timeout - Tempo: 32020ms
+Requisição #2187 - ERRO: Timeout - Tempo: 32020ms
+Requisição #2186 - ERRO: Timeout - Tempo: 32020ms
+Requisição #2185 - ERRO: Timeout - Tempo: 32021ms
+Requisição #2184 - ERRO: Timeout - Tempo: 32021ms
+Requisição #1979 - ERRO: Timeout - Tempo: 37025ms
+Requisição #1976 - ERRO: Timeout - Tempo: 37025ms
+Requisição #1976 - ERRO: socket hang up - Tempo: 37025ms
+Requisição #1979 - ERRO: socket hang up - Tempo: 37026ms
+Requisição #2184 - ERRO: socket hang up - Tempo: 32023ms
+Requisição #2185 - ERRO: socket hang up - Tempo: 32023ms
+Requisição #2186 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #2187 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #2188 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #2189 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #2190 - ERRO: socket hang up - Tempo: 32022ms
+Requisição #1728 - ERRO: Timeout - Tempo: 49022ms
+Requisição #1727 - ERRO: Timeout - Tempo: 49023ms
+Requisição #1726 - ERRO: Timeout - Tempo: 49023ms
+Requisição #1725 - ERRO: Timeout - Tempo: 49025ms
+Requisição #1724 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1723 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1722 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1721 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1720 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1719 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1718 - ERRO: Timeout - Tempo: 49026ms
+Requisição #1717 - ERRO: Timeout - Tempo: 49027ms
+Requisição #1716 - ERRO: Timeout - Tempo: 49027ms
+Requisição #1715 - ERRO: Timeout - Tempo: 49027ms
+Requisição #1715 - ERRO: socket hang up - Tempo: 49027ms
+Requisição #1716 - ERRO: socket hang up - Tempo: 49028ms
+Requisição #1717 - ERRO: socket hang up - Tempo: 49028ms
+Requisição #1718 - ERRO: socket hang up - Tempo: 49028ms
+Requisição #1719 - ERRO: socket hang up - Tempo: 49028ms
+Requisição #1720 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1721 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1722 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1723 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1724 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1725 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1726 - ERRO: socket hang up - Tempo: 49028ms
+Requisição #1727 - ERRO: socket hang up - Tempo: 49029ms
+Requisição #1728 - ERRO: socket hang up - Tempo: 49029ms
+Requisição #1714 - ERRO: Timeout - Tempo: 49031ms
+Requisição #1713 - ERRO: Timeout - Tempo: 49031ms
+Requisição #1712 - ERRO: Timeout - Tempo: 49031ms
+Requisição #1711 - ERRO: Timeout - Tempo: 49031ms
+Requisição #1710 - ERRO: Timeout - Tempo: 49032ms
+Requisição #1709 - ERRO: Timeout - Tempo: 49032ms
+Requisição #1708 - ERRO: Timeout - Tempo: 49032ms
+Requisição #1707 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1706 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1705 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1704 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1703 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1702 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1701 - ERRO: Timeout - Tempo: 49033ms
+Requisição #1700 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1699 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1698 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1697 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1696 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1695 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1694 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1693 - ERRO: Timeout - Tempo: 49034ms
+Requisição #1692 - ERRO: Timeout - Tempo: 49035ms
+Requisição #1691 - ERRO: Timeout - Tempo: 49035ms
+Requisição #1690 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1689 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1688 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1687 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1686 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1685 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1684 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1683 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1682 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1681 - ERRO: Timeout - Tempo: 49036ms
+Requisição #1799 - ERRO: Timeout - Tempo: 49029ms
+Requisição #1798 - ERRO: Timeout - Tempo: 49029ms
+Requisição #1797 - ERRO: Timeout - Tempo: 49029ms
+Requisição #1796 - ERRO: Timeout - Tempo: 49029ms
+Requisição #1795 - ERRO: Timeout - Tempo: 49030ms
+Requisição #1794 - ERRO: Timeout - Tempo: 49030ms
+Requisição #1794 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1795 - ERRO: socket hang up - Tempo: 49030ms
+Requisição #1796 - ERRO: socket hang up - Tempo: 49031ms
+Requisição #1797 - ERRO: socket hang up - Tempo: 49031ms
+Requisição #1798 - ERRO: socket hang up - Tempo: 49031ms
+Requisição #1799 - ERRO: socket hang up - Tempo: 49031ms
+Requisição #1681 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1682 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1683 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1684 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1685 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1686 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1687 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1688 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1689 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1690 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1691 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1692 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1693 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1694 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1695 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1696 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1697 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1698 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1699 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1700 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1701 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1702 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1703 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1704 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1705 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1706 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1707 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1708 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1709 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1710 - ERRO: socket hang up - Tempo: 49039ms
+Requisição #1711 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1712 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1713 - ERRO: socket hang up - Tempo: 49038ms
+Requisição #1714 - ERRO: socket hang up - Tempo: 49038ms

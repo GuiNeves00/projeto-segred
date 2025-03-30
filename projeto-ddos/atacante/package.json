@@ -1,0 +1,10 @@
+{
+    "name": "ddos-attack-tool",
+    "version": "1.0.0",
+    "description": "Ferramenta simples para simulação de ataque DDoS",
+    "main": "ddos-attack.js",
+    "scripts": {
+        "start": "node ddos-attack.js"
+    },
+    "dependencies": {}
+}
